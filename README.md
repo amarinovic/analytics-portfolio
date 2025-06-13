@@ -42,7 +42,7 @@ These samples are less recent, but I'm including them because d3.js was my porta
 #### Literacy in Dallas County
 [Visualization](https://amarinovic.github.io/analytics-portfolio/projects/earlyliteracy/index.html)
 <br>
-*Description:* Only 36% of Dallas County 3rd grade students were reading proficiently in 2015, but a number of national studies identified 3rd grade reading proficiency as a key factor in determining the likelihood of a student's graduation from high school. This interactive visualization illustrates the effects of 3rd grade reading proficiency on Dallas County high school graduation rates and consequent lost earnings to the region. I created this visualization during a summer internship.
+*Description:* Only 36% of Dallas County 3rd grade students were reading proficiently in 2015, but a number of national studies identified 3rd grade reading proficiency as a key factor in determining the likelihood of a student's graduation from high school. This interactive visualization illustrates the impact of 3rd grade reading proficiency on Dallas County high school graduation rates and consequent lost earnings to the region. I created this visualization during a summer internship.
 <br><br><br>
 #### National Assessment of Education Progress Trends
 [Visualization](https://amarinovic.github.io/analytics-portfolio/projects/naep/index.html)
