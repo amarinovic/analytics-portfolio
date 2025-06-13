@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<!-- ANA MARINOVIC, 2015 -->
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+
+    <title>NAEP</title>
+
+    <!-- Libraries-->
+  	<script src="libs/d3.v3.min.js"></script>
+    <script src="libs/queue.min.js"></script>
+    <script src="libs/topojson.min.js"></script>
+    <script src="libs/d3-tip-master/index.js"></script>
+    <script src="libs/d3-legend.min.js"></script>
+    <script src="libs/jquery-1.11.3.min.js"></script>
+    <script src="libs/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+    
+    <!--Styles-->
+    <style type="text/css"></style>    
+    <link rel="stylesheet" href="css/example-styles.css">
+    <link rel="stylesheet" href="libs/bootstrap-3.3.5-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    
+    <!--JS-->
+    <script src="js/global.js"></script>
+
+    <!--Vis Prototypes-->
+    <script src="js/mapVis.js"></script>
+    <script src="js/lineVis.js"></script>
+    <script src="js/barVis.js"></script>
+  
+</head>
+<body>
+    <!--Page Title-->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div id="pageTitle">
+            <h3>National Assessment of Educational Progress, NAEP</h3>
+        </div>
+    </nav>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12 col-md-6">
+                <!--About the NAEP-->
+                <div class="col-xs-10 col-md-7">
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            <h4><b>ABOUT THE NAEP</b></h4>
+                            <p id="aboutTheNaep">The National Assessment of Educational Progress (NAEP) is the largest nationally representative and continuing assessment of what America's students know and can do in various subject areas. </p>
+                        </div>
+                    </div>
+                </div>
+                <!--General Color Key-->
+                <div class="col-xs-12 col-md-5">
+                    <div class="panel panel-default" style="font-size:11px">
+                        <div class="panel-body">
+                            <div class="col-xs-12 col-md-6">
+                                <svg width="15" height="10"><rect x="0" y="0" width="15" height="10" fill="#92c83e"/></svg> All <br>
+                                <svg width="15" height="10"><rect x="0" y="0" width="15" height="10" fill="#f15728"/></svg> FRL<br>
+                                <svg width="15" height="10"><rect x="0" y="0" width="15" height="10" fill="#0088a3"/></svg> ELL<br>
+                            </div>
+                            <div class="col-xs-12 col-md-6">
+                                <svg width="15" height="10"><rect x="0" y="0" width="15" height="10" fill="grey"/></svg> Asian<br>
+                                <svg width="15" height="10"><rect x="0" y="0" width="15" height="10" fill="#003663"/></svg> Black<br>
+                                <svg width="15" height="10"><rect x="0" y="0" width="15" height="10" fill="#c4161c"/></svg> Hispanic<br>
+                                <svg width="15" height="10"><rect x="0" y="0" width="15" height="10" fill="#fdb713"/></svg> White
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-6">
+                <div class="panel panel-default">
+                    <!--User Tasks-->
+                    <div class="panel-body">
+                        <div>
+                            <form class="form-inline">
+                                <!--Dropdown Menus-->
+                                <!--Grade-->
+                                <select class="form-control selectWidth dropDown" name="grade" oninput="updatePage()">
+                                    <option value="4">4th Grade</option>
+                                    <option value="8">8th Grade</option>
+                                </select>
+                                <!--Subject-->
+                                <select class="form-control selectWidth dropDown" name="subject" oninput="updatePage()">
+                                    <option value="READ">Reading</option>
+                                    <option value="MATH">Mathematics</option>
+                                </select>
+                                <!--Demographic Group-->
+                                <select class="form-control selectWidth dropDown" name="group" oninput="updatePage()">
+                                    <option value="averageScore">All Students</option>
+                                    <option value="frlScore">Free and Reduced Lunch</option>
+                                    <option value="ellScore">English Language Learners</option>
+                                    <option value="asianScore">Asian</option>
+                                    <option value="blackScore">Black</option>
+                                    <option value="hispanicScore">Hispanic</option>
+                                    <option value="whiteScore">White</option>
+                                </select>
+                                <!--Play Button-->
+                                <button class="btn btn-default" type="button" onclick="playSlider()">
+                                    <span class="glyphicon glyphicon-play" aria-hidden="true" id="play"></span>
+                                    <span class="glyphicon glyphicon-pause" aria-hidden="true" id="pause" style="display:none;"></span>
+                                </button>
+                            </form>
+                        </div>
+                        <br>
+                        <!--Slider-->
+                        <div>            
+                            <span id="sliderSpan"></span>
+                            <!--Slider Labels-->
+                            <div>
+                                <svg width="400" height="40" id="sliderLabels"></svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 col-md-6">
+                <!--Map-->
+                <div class="col-xs-12 col-md-12">
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            <!--Title-->
+                            <h4>
+                                <b>AVERAGE SCORES BY STATE AND CITY</b>
+                            </h4>
+                            <!--Subtitle-->
+                            <h6>
+                                <b>
+                                    <span id="gradeMap"></span>TH GRADE, 
+                                    <span id="subjectMap"></span>, 
+                                    <span id="groupMap"></span>, 
+                                    <span id="yearMap"></span>
+                                </b>
+                            </h6>
+                            <!-- Color Key-->
+                            <div>
+                                Lowest: <b><span id="lowestScore"></span></b>&nbsp;
+                                <svg width="190" height="20" id="legendSvg"></svg>
+                                Highest: <b><span id="highestScore"></span></b>&nbsp;
+                                <br>
+                                <i>Hover over the swatches above to outline the states and cities that fall into each bucket.</i>
+                            </div>
+                            <!-- Checkbox-->
+                            <div>
+                                <input type="checkbox" class="displayCheckbox" onclick="toggleCities()" checked> Display Cities
+                            </div>
+                            <!--SVG-->
+                            <div id="mapVis">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+            <div class="col-xs-12 col-md-6">
+                <div class="panel panel-default"> 
+                    <div class="panel-body">
+                        <!--Tabs-->
+                        <ul class="nav nav-tabs" role="tablist" >
+                            <li role="presentation" class="active">
+                                <a href="#linechart" aria-controls="linechart" role="tab" data-toggle="tab" onclick="updateOutlines()">
+                                    <b>AVERAGE SCORES BY DEMOGRAPHIC OVER TIME</b>
+                                </a>
+                            </li>
+                            <li role="presentation">
+                                <a href="#barchart" aria-controls="barchart" role="tab" data-toggle="tab" onclick="updateOutlines()">
+                                    <b>COMPARE STATES AND CITIES</b>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="tab-content">
+                            <!--Line Chart-->
+                            <div role="tabpanel" class="tab-pane fade in active" id="linechart">
+                                <!--Subtitle-->
+                                <h6>
+                                    <b>
+                                        <span id="gradeLine"></span>TH GRADE, 
+                                        <span id="subjectLine"></span>, 
+                                        NATION VS. SELECTED CITY / STATE
+                                        <span id="selectedLine"></span>
+                                    </b>
+                                </h6>
+                                <!--Lines-->
+                                <div>
+                                    <svg width="45" height="10"><line x1="0" x2="45" y1="5" y2="5" stroke="grey" stroke-width="1" style="stroke-dasharray:10,5;"/></svg> Nation &nbsp;
+                                    <svg width="45" height="10"><line x1="0" x2="45" y1="5" y2="5" stroke="grey" stroke-width="3"/></svg> State/City
+                                </div>
+                                <!--Checkboxes-->
+                                <div>
+                                    <form class="form-inline">
+                                        <span class="check">
+                                            <input class="filterCheckbox" type="checkbox" id="filterCheckbox1" value="averageScore" onclick="filterLine()" checked/>
+                                            <label id="label1" for="filterCheckbox1"></label> &nbsp;All Students
+                                         </span>
+                                        <span class="check">
+                                            <input class="filterCheckbox" type="checkbox" id="filterCheckbox2" value="frlScore" onclick="filterLine()" checked/>
+                                            <label id="label2" for="filterCheckbox2"></label> &nbsp;FRL
+                                         </span>
+                                        <span class="check">
+                                            <input class="filterCheckbox" type="checkbox" id="filterCheckbox3" value="ellScore" onclick="filterLine()" checked/>
+                                            <label id="label3" for="filterCheckbox3"></label> &nbsp;ELL
+                                        </span>
+                                        <span class="check">
+                                            <input class="filterCheckbox" type="checkbox" id="filterCheckbox4" value="asianScore" onclick="filterLine()" checked/>
+                                            <label id="label4" for="filterCheckbox4"></label> &nbsp;Asian
+                                        </span>
+                                        <span class="check">
+                                            <input class="filterCheckbox" type="checkbox" id="filterCheckbox5" value="blackScore" onclick="filterLine()" checked/>
+                                            <label id="label5" for="filterCheckbox5"></label> &nbsp;Black
+                                        </span>
+                                        <span class="check">
+                                            <input class="filterCheckbox" type="checkbox" id="filterCheckbox6" value="hispanicScore" onclick="filterLine()" checked/>
+                                            <label id="label6" for="filterCheckbox6"></label> &nbsp;Hispanic
+                                        </span>
+                                        <span class="check">
+                                            <input class="filterCheckbox" type="checkbox" id="filterCheckbox7" value="whiteScore" onclick="filterLine()" checked/>
+                                            <label id="label7" for="filterCheckbox7"></label> &nbsp;White
+                                        </span>
+                                    </form>
+                                </div>
+                                <!--Instructions-->
+                                <div>
+                                    <i>Click on a state or city to compare to the national average. Click again to unselect.</i> 
+                                </div>
+                                <!--SVG-->
+                                <div id="lineVis">
+                                </div>
+                            </div>
+                            <!--Bar Chart-->
+                            <div role="tabpanel" class="tab-pane fade" id="barchart">
+                                <!--Subtitle-->
+                                <h6>
+                                    <b>
+                                        <span id="gradeBar"></span>TH GRADE, 
+                                        <span id="subjectBar"></span>, 
+                                        <span id="yearBar"></span>
+                                    </b>
+                                </h6>
+                                <div>
+                                   <input type="checkbox" class="displayCheckbox" onclick="toggleNationalBars()"> Display National Average
+                                </div>
+                                <div><i>Select up to 4 states to compare by clicking on the map. Click again to unselect.</i> &nbsp;&nbsp;&nbsp;  </div>
+                                <!--SVG-->
+                                <div id="barVis">
+                                </div>
+                            </div>
+                        </div>
+                    </div>                    
+                </div>
+            </div>        
+        </div>
+        <div class="row">
+            <div class="col-xs-12" style="text-align:center;">
+                <br>
+                <p style="font-size:10px;">
+                    Data: National Center for Education Statistics. <a href="http://nces.ed.gov/nationsreportcard/naepdata/" target="_blank">NAEP Data Explorer</a>.
+                </p>
+                <p style="font-size:10px;">
+                    Libraries:
+                    <a href="http://getbootstrap.com/" target="_blank">bootstrap</a>,
+                    <a href="http://d3js.org/" target="_blank">d3.js</a>, 
+                    <a href="https://github.com/susielu/d3-legend" target="_blank">d3-legend.js</a>, 
+                    <a href="https://github.com/Caged/d3-tip" target="_blank">d3-tip</a>, 
+                    <a href="https://jquery.com/" target="_blank">jquery</a>, 
+                    <a href="https://github.com/mbostock/queue" target="_blank">queue.js</a>,
+                    <a href="https://github.com/mbostock/topojson" target="_blank">topojson</a>
+                </p>
+                <p style="font-size:10px;">
+                    <a href="https://www.youtube.com/watch?v=3ueqT2aCXJk&feature=youtu.be" target="_blank">Watch Screencast</a>
+                </p>
+                <p style="font-size:10px;">
+                    Ana Marinovic, 2015
+                </p>
+                <br>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

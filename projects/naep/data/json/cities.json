@@ -1,0 +1,117 @@
+[
+  {
+    "city":"Albuquerque",
+    "latitude":35.085334,
+    "longitude":-106.605553
+  },
+  {
+    "city":"Atlanta",
+    "latitude":33.748995,
+    "longitude":-84.387982
+  },
+  {
+    "city":"Austin",
+    "latitude":30.267153,
+    "longitude":-97.743061
+  },
+  {
+    "city":"Baltimore City",
+    "latitude":39.290385,
+    "longitude":-76.612189
+  },
+  {
+    "city":"Boston",
+    "latitude":42.360082,
+    "longitude":-71.05888
+  },
+  {
+    "city":"Charlotte",
+    "latitude":35.227087,
+    "longitude":-80.843127
+  },
+  {
+    "city":"Chicago",
+    "latitude":41.878114,
+    "longitude":-87.629798
+  },
+  {
+    "city":"Cleveland",
+    "latitude":41.49932,
+    "longitude":-81.694361
+  },
+  {
+    "city":"Dallas",
+    "latitude":32.776664,
+    "longitude":-96.796988
+  },
+  {
+    "city":"Detroit",
+    "latitude":42.331427,
+    "longitude":-83.045754
+  },
+  {
+    "city":"District of Columbia",
+    "latitude":38.907192,
+    "longitude":-77.036871
+  },
+  {
+    "city":"District of Columbia (DCPS)",
+    "latitude":38.907192,
+    "longitude":-77.036871
+  },
+  {
+    "city":"Fresno",
+    "latitude":36.746842,
+    "longitude":-119.772587
+  },
+  {
+    "city":"Hillsborough County (FL)",
+    "latitude":27.99036,
+    "longitude":-82.301773
+  },
+  {
+    "city":"Houston",
+    "latitude":29.760427,
+    "longitude":-95.369803
+  },
+  {
+    "city":"Jefferson County (KY)",
+    "latitude":38.19381,
+    "longitude":-85.643487
+  },
+  {
+    "city":"Los Angeles",
+    "latitude":34.052234,
+    "longitude":-118.243685
+  },
+  {
+    "city":"Miami-Dade",
+    "latitude":25.76168,
+    "longitude":-80.19179
+  },
+  {
+    "city":"Milwaukee",
+    "latitude":43.038902,
+    "longitude":-87.906474
+  },
+  {
+    "city":"New York City",
+    "latitude":40.712784,
+    "longitude":-74.005941
+  },
+  {
+    "city":"Philadelphia",
+    "latitude":39.952584,
+    "longitude":-75.165222
+  },
+  {
+    "city":"San Diego",
+    "latitude":32.715738,
+    "longitude":-117.161084
+  },
+  {
+    "city":"DoDEA",
+    "latitude":33.403303,
+    "longitude":-84.592322
+  }
+]

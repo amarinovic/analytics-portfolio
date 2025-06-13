@@ -1,0 +1,1780 @@
+{
+  "Anderson": {
+    "County":"'001",
+    "d":50,
+    "satis_ph1_nm":35,
+    "satis_rec_nm":18,
+    "percent":"0.7"
+  },
+  "Andrews": {
+    "County":"'002",
+    "d":21,
+    "satis_ph1_nm":8,
+    "satis_rec_nm":5,
+    "percent":"0.380952381"
+  },
+  "Angelina": {
+    "County":"'003",
+    "d":93,
+    "satis_ph1_nm":64,
+    "satis_rec_nm":30,
+    "percent":"0.688172043"
+  },
+  "Aransas": {
+    "County":"'004",
+    "d":19,
+    "satis_ph1_nm":15,
+    "satis_rec_nm":6,
+    "percent":"0.789473684"
+  },
+  "Archer": {
+    "County":"'005",
+    "d":11,
+    "satis_ph1_nm":4,
+    "satis_rec_nm":2,
+    "percent":"0.363636364"
+  },
+  "Armstrong": {
+    "County":"'006",
+    "d":2,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Atascosa": {
+    "County":"'007",
+    "d":70,
+    "satis_ph1_nm":48,
+    "satis_rec_nm":22,
+    "percent":"0.685714286"
+  },
+  "Austin": {
+    "County":"'008",
+    "d":45,
+    "satis_ph1_nm":29,
+    "satis_rec_nm":13,
+    "percent":"0.644444444"
+  },
+  "Bailey": {
+    "County":"'009",
+    "d":12,
+    "satis_ph1_nm":7,
+    "satis_rec_nm":3,
+    "percent":"0.583333333"
+  },
+  "Bandera": {
+    "County":"'010",
+    "d":21,
+    "satis_ph1_nm":15,
+    "satis_rec_nm":7,
+    "percent":"0.714285714"
+  },
+  "Bastrop": {
+    "County":"'011",
+    "d":101,
+    "satis_ph1_nm":74,
+    "satis_rec_nm":33,
+    "percent":"0.732673267"
+  },
+  "Baylor": {
+    "County":"'012",
+    "d":1,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Bee": {
+    "County":"'013",
+    "d":47,
+    "satis_ph1_nm":35,
+    "satis_rec_nm":15,
+    "percent":"0.744680851"
+  },
+  "Bell": {
+    "County":"'014",
+    "d":539,
+    "satis_ph1_nm":431,
+    "satis_rec_nm":240,
+    "percent":"0.799628942"
+  },
+  "Bexar": {
+    "County":"'015",
+    "d":1943,
+    "satis_ph1_nm":1469,
+    "satis_rec_nm":791,
+    "percent":"0.756047349"
+  },
+  "Blanco": {
+    "County":"'016",
+    "d":15,
+    "satis_ph1_nm":7,
+    "satis_rec_nm":5,
+    "percent":"0.466666667"
+  },
+  "Borden": {
+    "County":"'017",
+    "d":0,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Bosque": {
+    "County":"'018",
+    "d":13,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Bowie": {
+    "County":"'019",
+    "d":82,
+    "satis_ph1_nm":47,
+    "satis_rec_nm":28,
+    "percent":"0.573170732"
+  },
+  "Brazoria": {
+    "County":"'020",
+    "d":295,
+    "satis_ph1_nm":218,
+    "satis_rec_nm":123,
+    "percent":"0.738983051"
+  },
+  "Brazos": {
+    "County":"'021",
+    "d":125,
+    "satis_ph1_nm":101,
+    "satis_rec_nm":51,
+    "percent":"0.808"
+  },
+  "Brewster": {
+    "County":"'022",
+    "d":12,
+    "satis_ph1_nm":6,
+    "satis_rec_nm":3,
+    "percent":"0.5"
+  },
+  "Briscoe": {
+    "County":"'023",
+    "d":1,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Brooks": {
+    "County":"'024",
+    "d":0,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Brown": {
+    "County":"'025",
+    "d":52,
+    "satis_ph1_nm":33,
+    "satis_rec_nm":19,
+    "percent":"0.634615385"
+  },
+  "Burleson": {
+    "County":"'026",
+    "d":11,
+    "satis_ph1_nm":5,
+    "satis_rec_nm":5,
+    "percent":"0.454545455"
+  },
+  "Burnet": {
+    "County":"'027",
+    "d":69,
+    "satis_ph1_nm":47,
+    "satis_rec_nm":20,
+    "percent":"0.68115942"
+  },
+  "Caldwell": {
+    "County":"'028",
+    "d":51,
+    "satis_ph1_nm":39,
+    "satis_rec_nm":17,
+    "percent":"0.764705882"
+  },
+  "Calhoun": {
+    "County":"'029",
+    "d":32,
+    "satis_ph1_nm":23,
+    "satis_rec_nm":13,
+    "percent":"0.71875"
+  },
+  "Callahan": {
+    "County":"'030",
+    "d":23,
+    "satis_ph1_nm":14,
+    "satis_rec_nm":5,
+    "percent":"0.608695652"
+  },
+  "Cameron": {
+    "County":"'031",
+    "d":62,
+    "satis_ph1_nm":47,
+    "satis_rec_nm":21,
+    "percent":"0.758064516"
+  },
+  "Camp": {
+    "County":"'032",
+    "d":11,
+    "satis_ph1_nm":10,
+    "satis_rec_nm":6,
+    "percent":"0.909090909"
+  },
+  "Carson": {
+    "County":"'033",
+    "d":2,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Cass": {
+    "County":"'034",
+    "d":23,
+    "satis_ph1_nm":18,
+    "satis_rec_nm":12,
+    "percent":"0.782608696"
+  },
+  "Castro": {
+    "County":"'035",
+    "d":4,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Chambers": {
+    "County":"'036",
+    "d":36,
+    "satis_ph1_nm":27,
+    "satis_rec_nm":18,
+    "percent":"0.75"
+  },
+  "Cherokee": {
+    "County":"'037",
+    "d":44,
+    "satis_ph1_nm":31,
+    "satis_rec_nm":10,
+    "percent":"0.704545455"
+  },
+  "Childress": {
+    "County":"'038",
+    "d":7,
+    "satis_ph1_nm":5,
+    "satis_rec_nm":5,
+    "percent":"0.714285714"
+  },
+  "Clay": {
+    "County":"'039",
+    "d":9,
+    "satis_ph1_nm":4,
+    "satis_rec_nm":4,
+    "percent":"0.444444444"
+  },
+  "Cochran": {
+    "County":"'040",
+    "d":0,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"#DIV/0!"
+  },
+  "Coke": {
+    "County":"'041",
+    "d":4,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Coleman": {
+    "County":"'042",
+    "d":5,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Collin": {
+    "County":"'043",
+    "d":553,
+    "satis_ph1_nm":447,
+    "satis_rec_nm":245,
+    "percent":"0.808318264"
+  },
+  "Collingsworth": {
+    "County":"'044",
+    "d":4,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Colorado": {
+    "County":"'045",
+    "d":22,
+    "satis_ph1_nm":17,
+    "satis_rec_nm":10,
+    "percent":"0.772727273"
+  },
+  "Comal": {
+    "County":"'046",
+    "d":134,
+    "satis_ph1_nm":102,
+    "satis_rec_nm":56,
+    "percent":"0.76119403"
+  },
+  "Comanche": {
+    "County":"'047",
+    "d":19,
+    "satis_ph1_nm":17,
+    "satis_rec_nm":8,
+    "percent":"0.894736842"
+  },
+  "Concho": {
+    "County":"'048",
+    "d":5,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Cooke": {
+    "County":"'049",
+    "d":38,
+    "satis_ph1_nm":26,
+    "satis_rec_nm":12,
+    "percent":"0.684210526"
+  },
+  "Coryell": {
+    "County":"'050",
+    "d":78,
+    "satis_ph1_nm":56,
+    "satis_rec_nm":32,
+    "percent":"0.717948718"
+  },
+  "Cottle": {
+    "County":"'051",
+    "d":1,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Crane": {
+    "County":"'052",
+    "d":9,
+    "satis_ph1_nm":5,
+    "satis_rec_nm":1,
+    "percent":"0.555555556"
+  },
+  "Crockett": {
+    "County":"'053",
+    "d":10,
+    "satis_ph1_nm":3,
+    "satis_rec_nm":0,
+    "percent":"0.3"
+  },
+  "Crosby": {
+    "County":"'054",
+    "d":9,
+    "satis_ph1_nm":6,
+    "satis_rec_nm":3,
+    "percent":"0.666666667"
+  },
+  "Culberson": {
+    "County":"'055",
+    "d":4,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Dallam": {
+    "County":"'056",
+    "d":17,
+    "satis_ph1_nm":10,
+    "satis_rec_nm":3,
+    "percent":"0.588235294"
+  },
+  "Dallas": {
+    "County":"'057",
+    "d":2254,
+    "satis_ph1_nm":1688,
+    "satis_rec_nm":888,
+    "percent":"0.748890861"
+  },
+  "Dawson": {
+    "County":"'058",
+    "d":13,
+    "satis_ph1_nm":9,
+    "satis_rec_nm":2,
+    "percent":"0.692307692"
+  },
+  "Deaf smith": {
+    "County":"'059",
+    "d":23,
+    "satis_ph1_nm":16,
+    "satis_rec_nm":8,
+    "percent":"0.695652174"
+  },
+  "Delta": {
+    "County":"'060",
+    "d":9,
+    "satis_ph1_nm":8,
+    "satis_rec_nm":6,
+    "percent":"0.888888889"
+  },
+  "Denton": {
+    "County":"'061",
+    "d":505,
+    "satis_ph1_nm":381,
+    "satis_rec_nm":204,
+    "percent":"0.754455446"
+  },
+  "Dewitt": {
+    "County":"'062",
+    "d":23,
+    "satis_ph1_nm":11,
+    "satis_rec_nm":6,
+    "percent":"0.47826087"
+  },
+  "Dickens": {
+    "County":"'063",
+    "d":3,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Dimmit": {
+    "County":"'064",
+    "d":13,
+    "satis_ph1_nm":10,
+    "satis_rec_nm":4,
+    "percent":"0.769230769"
+  },
+  "Donley": {
+    "County":"'065",
+    "d":3,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Duval": {
+    "County":"'066",
+    "d":21,
+    "satis_ph1_nm":14,
+    "satis_rec_nm":5,
+    "percent":"0.666666667"
+  },
+  "Eastland": {
+    "County":"'067",
+    "d":19,
+    "satis_ph1_nm":11,
+    "satis_rec_nm":8,
+    "percent":"0.578947368"
+  },
+  "Ector": {
+    "County":"'068",
+    "d":211,
+    "satis_ph1_nm":131,
+    "satis_rec_nm":60,
+    "percent":"0.620853081"
+  },
+  "Edwards": {
+    "County":"'069",
+    "d":9,
+    "satis_ph1_nm":5,
+    "satis_rec_nm":2,
+    "percent":"0.555555556"
+  },
+  "Ellis": {
+    "County":"'070",
+    "d":155,
+    "satis_ph1_nm":123,
+    "satis_rec_nm":60,
+    "percent":"0.793548387"
+  },
+  "El paso": {
+    "County":"'071",
+    "d":1230,
+    "satis_ph1_nm":1038,
+    "satis_rec_nm":556,
+    "percent":"0.843902439"
+  },
+  "Erath": {
+    "County":"'072",
+    "d":30,
+    "satis_ph1_nm":23,
+    "satis_rec_nm":16,
+    "percent":"0.766666667"
+  },
+  "Falls": {
+    "County":"'073",
+    "d":11,
+    "satis_ph1_nm":4,
+    "satis_rec_nm":1,
+    "percent":"0.363636364"
+  },
+  "Fannin": {
+    "County":"'074",
+    "d":34,
+    "satis_ph1_nm":20,
+    "satis_rec_nm":9,
+    "percent":"0.588235294"
+  },
+  "Fayette": {
+    "County":"'075",
+    "d":17,
+    "satis_ph1_nm":13,
+    "satis_rec_nm":8,
+    "percent":"0.764705882"
+  },
+  "Fisher": {
+    "County":"'076",
+    "d":5,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Floyd": {
+    "County":"'077",
+    "d":7,
+    "satis_ph1_nm":4,
+    "satis_rec_nm":2,
+    "percent":"0.571428571"
+  },
+  "Foard": {
+    "County":"'078",
+    "d":4,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Fort bend": {
+    "County":"'079",
+    "d":457,
+    "satis_ph1_nm":362,
+    "satis_rec_nm":209,
+    "percent":"0.792122538"
+  },
+  "Franklin": {
+    "County":"'080",
+    "d":8,
+    "satis_ph1_nm":6,
+    "satis_rec_nm":3,
+    "percent":"0.75"
+  },
+  "Freestone": {
+    "County":"'081",
+    "d":25,
+    "satis_ph1_nm":18,
+    "satis_rec_nm":6,
+    "percent":"0.72"
+  },
+  "Frio": {
+    "County":"'082",
+    "d":23,
+    "satis_ph1_nm":15,
+    "satis_rec_nm":6,
+    "percent":"0.652173913"
+  },
+  "Gaines": {
+    "County":"'083",
+    "d":34,
+    "satis_ph1_nm":29,
+    "satis_rec_nm":15,
+    "percent":"0.852941176"
+  },
+  "Galveston": {
+    "County":"'084",
+    "d":281,
+    "satis_ph1_nm":203,
+    "satis_rec_nm":109,
+    "percent":"0.722419929"
+  },
+  "Garza": {
+    "County":"'085",
+    "d":7,
+    "satis_ph1_nm":6,
+    "satis_rec_nm":1,
+    "percent":"0.857142857"
+  },
+  "Gillespie": {
+    "County":"'086",
+    "d":21,
+    "satis_ph1_nm":14,
+    "satis_rec_nm":11,
+    "percent":"0.666666667"
+  },
+  "Glasscock": {
+    "County":"'087",
+    "d":1,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Goliad": {
+    "County":"'088",
+    "d":10,
+    "satis_ph1_nm":7,
+    "satis_rec_nm":3,
+    "percent":"0.7"
+  },
+  "Gonzales": {
+    "County":"'089",
+    "d":23,
+    "satis_ph1_nm":13,
+    "satis_rec_nm":10,
+    "percent":"0.565217391"
+  },
+  "Gray": {
+    "County":"'090",
+    "d":36,
+    "satis_ph1_nm":20,
+    "satis_rec_nm":6,
+    "percent":"0.555555556"
+  },
+  "Grayson": {
+    "County":"'091",
+    "d":140,
+    "satis_ph1_nm":101,
+    "satis_rec_nm":64,
+    "percent":"0.721428571"
+  },
+  "Gregg": {
+    "County":"'092",
+    "d":146,
+    "satis_ph1_nm":123,
+    "satis_rec_nm":66,
+    "percent":"0.842465753"
+  },
+  "Grimes": {
+    "County":"'093",
+    "d":31,
+    "satis_ph1_nm":14,
+    "satis_rec_nm":9,
+    "percent":"0.451612903"
+  },
+  "Guadalupe": {
+    "County":"'094",
+    "d":131,
+    "satis_ph1_nm":97,
+    "satis_rec_nm":51,
+    "percent":"0.740458015"
+  },
+  "Hale": {
+    "County":"'095",
+    "d":50,
+    "satis_ph1_nm":32,
+    "satis_rec_nm":15,
+    "percent":"0.64"
+  },
+  "Hall": {
+    "County":"'096",
+    "d":5,
+    "satis_ph1_nm":4,
+    "satis_rec_nm":2,
+    "percent":"0.8"
+  },
+  "Hamilton": {
+    "County":"'097",
+    "d":5,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Hansford": {
+    "County":"'098",
+    "d":19,
+    "satis_ph1_nm":15,
+    "satis_rec_nm":6,
+    "percent":"0.789473684"
+  },
+  "Hardeman": {
+    "County":"'099",
+    "d":7,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "#N/A": {
+    "County":"'1",
+    "d":25350,
+    "satis_ph1_nm":19639,
+    "satis_rec_nm":10206,
+    "percent":"0.774714004"
+  },
+  "Hardin": {
+    "County":"'100",
+    "d":45,
+    "satis_ph1_nm":35,
+    "satis_rec_nm":21,
+    "percent":"0.777777778"
+  },
+  "Harris": {
+    "County":"'101",
+    "d":4442,
+    "satis_ph1_nm":3420,
+    "satis_rec_nm":1770,
+    "percent":"0.769923458"
+  },
+  "Harrison": {
+    "County":"'102",
+    "d":80,
+    "satis_ph1_nm":59,
+    "satis_rec_nm":34,
+    "percent":"0.7375"
+  },
+  "Hartley": {
+    "County":"'103",
+    "d":5,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Haskell": {
+    "County":"'104",
+    "d":9,
+    "satis_ph1_nm":3,
+    "satis_rec_nm":1,
+    "percent":"0.333333333"
+  },
+  "Hays": {
+    "County":"'105",
+    "d":176,
+    "satis_ph1_nm":128,
+    "satis_rec_nm":60,
+    "percent":"0.727272727"
+  },
+  "Hemphill": {
+    "County":"'106",
+    "d":5,
+    "satis_ph1_nm":5,
+    "satis_rec_nm":2,
+    "percent":"1"
+  },
+  "Henderson": {
+    "County":"'107",
+    "d":59,
+    "satis_ph1_nm":31,
+    "satis_rec_nm":17,
+    "percent":"0.525423729"
+  },
+  "Hidalgo": {
+    "County":"'108",
+    "d":310,
+    "satis_ph1_nm":252,
+    "satis_rec_nm":146,
+    "percent":"0.812903226"
+  },
+  "Hill": {
+    "County":"'109",
+    "d":41,
+    "satis_ph1_nm":20,
+    "satis_rec_nm":13,
+    "percent":"0.487804878"
+  },
+  "Hockley": {
+    "County":"'110",
+    "d":28,
+    "satis_ph1_nm":15,
+    "satis_rec_nm":4,
+    "percent":"0.535714286"
+  },
+  "Hood": {
+    "County":"'111",
+    "d":41,
+    "satis_ph1_nm":32,
+    "satis_rec_nm":15,
+    "percent":"0.780487805"
+  },
+  "Hopkins": {
+    "County":"'112",
+    "d":59,
+    "satis_ph1_nm":36,
+    "satis_rec_nm":22,
+    "percent":"0.610169492"
+  },
+  "Houston": {
+    "County":"'113",
+    "d":9,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Howard": {
+    "County":"'114",
+    "d":43,
+    "satis_ph1_nm":28,
+    "satis_rec_nm":13,
+    "percent":"0.651162791"
+  },
+  "Hudspeth": {
+    "County":"'115",
+    "d":3,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Hunt": {
+    "County":"'116",
+    "d":91,
+    "satis_ph1_nm":66,
+    "satis_rec_nm":34,
+    "percent":"0.725274725"
+  },
+  "Hutchinson": {
+    "County":"'117",
+    "d":29,
+    "satis_ph1_nm":22,
+    "satis_rec_nm":8,
+    "percent":"0.75862069"
+  },
+  "Irion": {
+    "County":"'118",
+    "d":1,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Jack": {
+    "County":"'119",
+    "d":9,
+    "satis_ph1_nm":2,
+    "satis_rec_nm":1,
+    "percent":"0.222222222"
+  },
+  "Jackson": {
+    "County":"'120",
+    "d":18,
+    "satis_ph1_nm":12,
+    "satis_rec_nm":6,
+    "percent":"0.666666667"
+  },
+  "Jasper": {
+    "County":"'121",
+    "d":29,
+    "satis_ph1_nm":15,
+    "satis_rec_nm":8,
+    "percent":"0.517241379"
+  },
+  "Jeff davis": {
+    "County":"'122",
+    "d":3,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Jefferson": {
+    "County":"'123",
+    "d":219,
+    "satis_ph1_nm":155,
+    "satis_rec_nm":80,
+    "percent":"0.707762557"
+  },
+  "Jim hogg": {
+    "County":"'124",
+    "d":7,
+    "satis_ph1_nm":6,
+    "satis_rec_nm":3,
+    "percent":"0.857142857"
+  },
+  "Jim wells": {
+    "County":"'125",
+    "d":37,
+    "satis_ph1_nm":20,
+    "satis_rec_nm":10,
+    "percent":"0.540540541"
+  },
+  "Johnson": {
+    "County":"'126",
+    "d":173,
+    "satis_ph1_nm":133,
+    "satis_rec_nm":77,
+    "percent":"0.768786127"
+  },
+  "Jones": {
+    "County":"'127",
+    "d":23,
+    "satis_ph1_nm":12,
+    "satis_rec_nm":5,
+    "percent":"0.52173913"
+  },
+  "Karnes": {
+    "County":"'128",
+    "d":18,
+    "satis_ph1_nm":7,
+    "satis_rec_nm":3,
+    "percent":"0.388888889"
+  },
+  "Kaufman": {
+    "County":"'129",
+    "d":128,
+    "satis_ph1_nm":99,
+    "satis_rec_nm":51,
+    "percent":"0.7734375"
+  },
+  "Kendall": {
+    "County":"'130",
+    "d":33,
+    "satis_ph1_nm":23,
+    "satis_rec_nm":4,
+    "percent":"0.696969697"
+  },
+  "Kenedy": {
+    "County":"'131",
+    "d":4,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Kent": {
+    "County":"'132",
+    "d":2,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Kerr": {
+    "County":"'133",
+    "d":30,
+    "satis_ph1_nm":21,
+    "satis_rec_nm":13,
+    "percent":"0.7"
+  },
+  "Kimble": {
+    "County":"'134",
+    "d":7,
+    "satis_ph1_nm":5,
+    "satis_rec_nm":2,
+    "percent":"0.714285714"
+  },
+  "King": {
+    "County":"'135",
+    "d":0,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Kinney": {
+    "County":"'136",
+    "d":4,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Kleberg": {
+    "County":"'137",
+    "d":30,
+    "satis_ph1_nm":21,
+    "satis_rec_nm":15,
+    "percent":"0.7"
+  },
+  "Knox": {
+    "County":"'138",
+    "d":9,
+    "satis_ph1_nm":3,
+    "satis_rec_nm":1,
+    "percent":"0.333333333"
+  },
+  "Lamar": {
+    "County":"'139",
+    "d":47,
+    "satis_ph1_nm":38,
+    "satis_rec_nm":23,
+    "percent":"0.808510638"
+  },
+  "Lamb": {
+    "County":"'140",
+    "d":20,
+    "satis_ph1_nm":10,
+    "satis_rec_nm":8,
+    "percent":"0.5"
+  },
+  "Lampasas": {
+    "County":"'141",
+    "d":23,
+    "satis_ph1_nm":17,
+    "satis_rec_nm":10,
+    "percent":"0.739130435"
+  },
+  "La salle": {
+    "County":"'142",
+    "d":6,
+    "satis_ph1_nm":5,
+    "satis_rec_nm":3,
+    "percent":"0.833333333"
+  },
+  "Lavaca": {
+    "County":"'143",
+    "d":18,
+    "satis_ph1_nm":11,
+    "satis_rec_nm":6,
+    "percent":"0.611111111"
+  },
+  "Lee": {
+    "County":"'144",
+    "d":16,
+    "satis_ph1_nm":11,
+    "satis_rec_nm":5,
+    "percent":"0.6875"
+  },
+  "Leon": {
+    "County":"'145",
+    "d":14,
+    "satis_ph1_nm":9,
+    "satis_rec_nm":4,
+    "percent":"0.642857143"
+  },
+  "Liberty": {
+    "County":"'146",
+    "d":79,
+    "satis_ph1_nm":55,
+    "satis_rec_nm":24,
+    "percent":"0.696202532"
+  },
+  "Limestone": {
+    "County":"'147",
+    "d":21,
+    "satis_ph1_nm":9,
+    "satis_rec_nm":4,
+    "percent":"0.428571429"
+  },
+  "Lipscomb": {
+    "County":"'148",
+    "d":15,
+    "satis_ph1_nm":10,
+    "satis_rec_nm":6,
+    "percent":"0.666666667"
+  },
+  "Live oak": {
+    "County":"'149",
+    "d":18,
+    "satis_ph1_nm":15,
+    "satis_rec_nm":7,
+    "percent":"0.833333333"
+  },
+  "Llano": {
+    "County":"'150",
+    "d":14,
+    "satis_ph1_nm":12,
+    "satis_rec_nm":7,
+    "percent":"0.857142857"
+  },
+  "Lubbock": {
+    "County":"'152",
+    "d":293,
+    "satis_ph1_nm":220,
+    "satis_rec_nm":112,
+    "percent":"0.750853242"
+  },
+  "Lynn": {
+    "County":"'153",
+    "d":8,
+    "satis_ph1_nm":3,
+    "satis_rec_nm":1,
+    "percent":"0.375"
+  },
+  "Madison": {
+    "County":"'154",
+    "d":13,
+    "satis_ph1_nm":9,
+    "satis_rec_nm":3,
+    "percent":"0.692307692"
+  },
+  "Marion": {
+    "County":"'155",
+    "d":5,
+    "satis_ph1_nm":4,
+    "satis_rec_nm":4,
+    "percent":"0.8"
+  },
+  "Martin": {
+    "County":"'156",
+    "d":8,
+    "satis_ph1_nm":5,
+    "satis_rec_nm":3,
+    "percent":"0.625"
+  },
+  "Mason": {
+    "County":"'157",
+    "d":3,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Matagorda": {
+    "County":"'158",
+    "d":43,
+    "satis_ph1_nm":38,
+    "satis_rec_nm":14,
+    "percent":"0.88372093"
+  },
+  "Maverick": {
+    "County":"'159",
+    "d":100,
+    "satis_ph1_nm":81,
+    "satis_rec_nm":39,
+    "percent":"0.81"
+  },
+  "Mcculloch": {
+    "County":"'160",
+    "d":10,
+    "satis_ph1_nm":7,
+    "satis_rec_nm":4,
+    "percent":"0.7"
+  },
+  "Mclennan": {
+    "County":"'161",
+    "d":253,
+    "satis_ph1_nm":188,
+    "satis_rec_nm":107,
+    "percent":"0.743083004"
+  },
+  "Mcmullen": {
+    "County":"'162",
+    "d":0,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Medina": {
+    "County":"'163",
+    "d":66,
+    "satis_ph1_nm":52,
+    "satis_rec_nm":34,
+    "percent":"0.787878788"
+  },
+  "Menard": {
+    "County":"'164",
+    "d":1,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Midland": {
+    "County":"'165",
+    "d":197,
+    "satis_ph1_nm":132,
+    "satis_rec_nm":48,
+    "percent":"0.670050761"
+  },
+  "Milam": {
+    "County":"'166",
+    "d":39,
+    "satis_ph1_nm":25,
+    "satis_rec_nm":12,
+    "percent":"0.641025641"
+  },
+  "Mills": {
+    "County":"'167",
+    "d":5,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Mitchell": {
+    "County":"'168",
+    "d":5,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Montague": {
+    "County":"'169",
+    "d":26,
+    "satis_ph1_nm":17,
+    "satis_rec_nm":5,
+    "percent":"0.653846154"
+  },
+  "Montgomery": {
+    "County":"'170",
+    "d":438,
+    "satis_ph1_nm":336,
+    "satis_rec_nm":168,
+    "percent":"0.767123288"
+  },
+  "Moore": {
+    "County":"'171",
+    "d":51,
+    "satis_ph1_nm":30,
+    "satis_rec_nm":11,
+    "percent":"0.588235294"
+  },
+  "Morris": {
+    "County":"'172",
+    "d":15,
+    "satis_ph1_nm":10,
+    "satis_rec_nm":4,
+    "percent":"0.666666667"
+  },
+  "Motley": {
+    "County":"'173",
+    "d":0,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"#DIV/0!"
+  },
+  "Nacogdoches": {
+    "County":"'174",
+    "d":50,
+    "satis_ph1_nm":29,
+    "satis_rec_nm":9,
+    "percent":"0.58"
+  },
+  "Navarro": {
+    "County":"'175",
+    "d":55,
+    "satis_ph1_nm":31,
+    "satis_rec_nm":11,
+    "percent":"0.563636364"
+  },
+  "Newton": {
+    "County":"'176",
+    "d":14,
+    "satis_ph1_nm":5,
+    "satis_rec_nm":3,
+    "percent":"0.357142857"
+  },
+  "Nolan": {
+    "County":"'177",
+    "d":25,
+    "satis_ph1_nm":17,
+    "satis_rec_nm":7,
+    "percent":"0.68"
+  },
+  "Nueces": {
+    "County":"'178",
+    "d":316,
+    "satis_ph1_nm":227,
+    "satis_rec_nm":114,
+    "percent":"0.71835443"
+  },
+  "Ochiltree": {
+    "County":"'179",
+    "d":29,
+    "satis_ph1_nm":17,
+    "satis_rec_nm":4,
+    "percent":"0.586206897"
+  },
+  "Oldham": {
+    "County":"'180",
+    "d":12,
+    "satis_ph1_nm":11,
+    "satis_rec_nm":7,
+    "percent":"0.916666667"
+  },
+  "Orange": {
+    "County":"'181",
+    "d":74,
+    "satis_ph1_nm":52,
+    "satis_rec_nm":18,
+    "percent":"0.702702703"
+  },
+  "Palo pinto": {
+    "County":"'182",
+    "d":22,
+    "satis_ph1_nm":13,
+    "satis_rec_nm":5,
+    "percent":"0.590909091"
+  },
+  "Panola": {
+    "County":"'183",
+    "d":14,
+    "satis_ph1_nm":6,
+    "satis_rec_nm":2,
+    "percent":"0.428571429"
+  },
+  "Parker": {
+    "County":"'184",
+    "d":84,
+    "satis_ph1_nm":61,
+    "satis_rec_nm":36,
+    "percent":"0.726190476"
+  },
+  "Parmer": {
+    "County":"'185",
+    "d":17,
+    "satis_ph1_nm":16,
+    "satis_rec_nm":4,
+    "percent":"0.941176471"
+  },
+  "Pecos": {
+    "County":"'186",
+    "d":32,
+    "satis_ph1_nm":23,
+    "satis_rec_nm":11,
+    "percent":"0.71875"
+  },
+  "Polk": {
+    "County":"'187",
+    "d":29,
+    "satis_ph1_nm":24,
+    "satis_rec_nm":10,
+    "percent":"0.827586207"
+  },
+  "Potter": {
+    "County":"'188",
+    "d":255,
+    "satis_ph1_nm":200,
+    "satis_rec_nm":107,
+    "percent":"0.784313725"
+  },
+  "Presidio": {
+    "County":"'189",
+    "d":13,
+    "satis_ph1_nm":8,
+    "satis_rec_nm":3,
+    "percent":"0.615384615"
+  },
+  "Rains": {
+    "County":"'190",
+    "d":9,
+    "satis_ph1_nm":8,
+    "satis_rec_nm":2,
+    "percent":"0.888888889"
+  },
+  "Randall": {
+    "County":"'191",
+    "d":44,
+    "satis_ph1_nm":36,
+    "satis_rec_nm":21,
+    "percent":"0.818181818"
+  },
+  "Reagan": {
+    "County":"'192",
+    "d":6,
+    "satis_ph1_nm":3,
+    "satis_rec_nm":0,
+    "percent":"0.5"
+  },
+  "Real": {
+    "County":"'193",
+    "d":7,
+    "satis_ph1_nm":6,
+    "satis_rec_nm":2,
+    "percent":"0.857142857"
+  },
+  "Red river": {
+    "County":"'194",
+    "d":7,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Reeves": {
+    "County":"'195",
+    "d":17,
+    "satis_ph1_nm":15,
+    "satis_rec_nm":8,
+    "percent":"0.882352941"
+  },
+  "Refugio": {
+    "County":"'196",
+    "d":7,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Roberts": {
+    "County":"'197",
+    "d":1,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Robertson": {
+    "County":"'198",
+    "d":14,
+    "satis_ph1_nm":5,
+    "satis_rec_nm":1,
+    "percent":"0.357142857"
+  },
+  "Rockwall": {
+    "County":"'199",
+    "d":83,
+    "satis_ph1_nm":72,
+    "satis_rec_nm":34,
+    "percent":"0.86746988"
+  },
+  "Runnels": {
+    "County":"'200",
+    "d":18,
+    "satis_ph1_nm":9,
+    "satis_rec_nm":4,
+    "percent":"0.5"
+  },
+  "Rusk": {
+    "County":"'201",
+    "d":39,
+    "satis_ph1_nm":24,
+    "satis_rec_nm":13,
+    "percent":"0.615384615"
+  },
+  "Sabine": {
+    "County":"'202",
+    "d":6,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "San augustine": {
+    "County":"'203",
+    "d":5,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "San jacinto": {
+    "County":"'204",
+    "d":17,
+    "satis_ph1_nm":12,
+    "satis_rec_nm":7,
+    "percent":"0.705882353"
+  },
+  "San patricio": {
+    "County":"'205",
+    "d":100,
+    "satis_ph1_nm":73,
+    "satis_rec_nm":34,
+    "percent":"0.73"
+  },
+  "San saba": {
+    "County":"'206",
+    "d":6,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Schleicher": {
+    "County":"'207",
+    "d":7,
+    "satis_ph1_nm":5,
+    "satis_rec_nm":1,
+    "percent":"0.714285714"
+  },
+  "Scurry": {
+    "County":"'208",
+    "d":25,
+    "satis_ph1_nm":16,
+    "satis_rec_nm":4,
+    "percent":"0.64"
+  },
+  "Shackelford": {
+    "County":"'209",
+    "d":4,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Shelby": {
+    "County":"'210",
+    "d":24,
+    "satis_ph1_nm":10,
+    "satis_rec_nm":5,
+    "percent":"0.416666667"
+  },
+  "Sherman": {
+    "County":"'211",
+    "d":10,
+    "satis_ph1_nm":4,
+    "satis_rec_nm":3,
+    "percent":"0.4"
+  },
+  "Smith": {
+    "County":"'212",
+    "d":205,
+    "satis_ph1_nm":149,
+    "satis_rec_nm":71,
+    "percent":"0.726829268"
+  },
+  "Somervell": {
+    "County":"'213",
+    "d":6,
+    "satis_ph1_nm":4,
+    "satis_rec_nm":3,
+    "percent":"0.666666667"
+  },
+  "Starr": {
+    "County":"'214",
+    "d":14,
+    "satis_ph1_nm":12,
+    "satis_rec_nm":8,
+    "percent":"0.857142857"
+  },
+  "Stephens": {
+    "County":"'215",
+    "d":11,
+    "satis_ph1_nm":8,
+    "satis_rec_nm":5,
+    "percent":"0.727272727"
+  },
+  "Sterling": {
+    "County":"'216",
+    "d":2,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Stonewall": {
+    "County":"'217",
+    "d":5,
+    "satis_ph1_nm":4,
+    "satis_rec_nm":1,
+    "percent":"0.8"
+  },
+  "Sutton": {
+    "County":"'218",
+    "d":9,
+    "satis_ph1_nm":9,
+    "satis_rec_nm":6,
+    "percent":"1"
+  },
+  "Swisher": {
+    "County":"'219",
+    "d":12,
+    "satis_ph1_nm":6,
+    "satis_rec_nm":5,
+    "percent":"0.5"
+  },
+  "Tarrant": {
+    "County":"'220",
+    "d":1680,
+    "satis_ph1_nm":1294,
+    "satis_rec_nm":668,
+    "percent":"0.770238095"
+  },
+  "Taylor": {
+    "County":"'221",
+    "d":242,
+    "satis_ph1_nm":199,
+    "satis_rec_nm":101,
+    "percent":"0.82231405"
+  },
+  "Terrell": {
+    "County":"'222",
+    "d":0,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Terry": {
+    "County":"'223",
+    "d":10,
+    "satis_ph1_nm":4,
+    "satis_rec_nm":0,
+    "percent":"0.4"
+  },
+  "Throckmorton": {
+    "County":"'224",
+    "d":1,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Titus": {
+    "County":"'225",
+    "d":45,
+    "satis_ph1_nm":31,
+    "satis_rec_nm":17,
+    "percent":"0.688888889"
+  },
+  "Tom green": {
+    "County":"'226",
+    "d":181,
+    "satis_ph1_nm":140,
+    "satis_rec_nm":77,
+    "percent":"0.773480663"
+  },
+  "Travis": {
+    "County":"'227",
+    "d":675,
+    "satis_ph1_nm":512,
+    "satis_rec_nm":275,
+    "percent":"0.758518519"
+  },
+  "Trinity": {
+    "County":"'228",
+    "d":14,
+    "satis_ph1_nm":10,
+    "satis_rec_nm":5,
+    "percent":"0.714285714"
+  },
+  "Tyler": {
+    "County":"'229",
+    "d":19,
+    "satis_ph1_nm":10,
+    "satis_rec_nm":6,
+    "percent":"0.526315789"
+  },
+  "Upshur": {
+    "County":"'230",
+    "d":60,
+    "satis_ph1_nm":41,
+    "satis_rec_nm":22,
+    "percent":"0.683333333"
+  },
+  "Upton": {
+    "County":"'231",
+    "d":11,
+    "satis_ph1_nm":7,
+    "satis_rec_nm":3,
+    "percent":"0.636363636"
+  },
+  "Uvalde": {
+    "County":"'232",
+    "d":41,
+    "satis_ph1_nm":22,
+    "satis_rec_nm":17,
+    "percent":"0.536585366"
+  },
+  "Val verde": {
+    "County":"'233",
+    "d":82,
+    "satis_ph1_nm":59,
+    "satis_rec_nm":34,
+    "percent":"0.719512195"
+  },
+  "Van zandt": {
+    "County":"'234",
+    "d":65,
+    "satis_ph1_nm":50,
+    "satis_rec_nm":24,
+    "percent":"0.769230769"
+  },
+  "Victoria": {
+    "County":"'235",
+    "d":110,
+    "satis_ph1_nm":71,
+    "satis_rec_nm":37,
+    "percent":"0.645454545"
+  },
+  "Walker": {
+    "County":"'236",
+    "d":51,
+    "satis_ph1_nm":35,
+    "satis_rec_nm":13,
+    "percent":"0.68627451"
+  },
+  "Waller": {
+    "County":"'237",
+    "d":57,
+    "satis_ph1_nm":41,
+    "satis_rec_nm":20,
+    "percent":"0.719298246"
+  },
+  "Ward": {
+    "County":"'238",
+    "d":35,
+    "satis_ph1_nm":18,
+    "satis_rec_nm":7,
+    "percent":"0.514285714"
+  },
+  "Washington": {
+    "County":"'239",
+    "d":22,
+    "satis_ph1_nm":15,
+    "satis_rec_nm":4,
+    "percent":"0.681818182"
+  },
+  "Webb": {
+    "County":"'240",
+    "d":243,
+    "satis_ph1_nm":184,
+    "satis_rec_nm":93,
+    "percent":"0.757201646"
+  },
+  "Wharton": {
+    "County":"'241",
+    "d":40,
+    "satis_ph1_nm":22,
+    "satis_rec_nm":15,
+    "percent":"0.55"
+  },
+  "Wheeler": {
+    "County":"'242",
+    "d":11,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Wichita": {
+    "County":"'243",
+    "d":129,
+    "satis_ph1_nm":100,
+    "satis_rec_nm":54,
+    "percent":"0.775193798"
+  },
+  "Wilbarger": {
+    "County":"'244",
+    "d":17,
+    "satis_ph1_nm":12,
+    "satis_rec_nm":5,
+    "percent":"0.705882353"
+  },
+  "Willacy": {
+    "County":"'245",
+    "d":0,
+    "satis_ph1_nm":0,
+    "satis_rec_nm":0,
+    "percent":"0"
+  },
+  "Williamson": {
+    "County":"'246",
+    "d":474,
+    "satis_ph1_nm":361,
+    "satis_rec_nm":195,
+    "percent":"0.761603376"
+  },
+  "Wilson": {
+    "County":"'247",
+    "d":47,
+    "satis_ph1_nm":32,
+    "satis_rec_nm":15,
+    "percent":"0.680851064"
+  },
+  "Winkler": {
+    "County":"'248",
+    "d":21,
+    "satis_ph1_nm":9,
+    "satis_rec_nm":5,
+    "percent":"0.428571429"
+  },
+  "Wise": {
+    "County":"'249",
+    "d":52,
+    "satis_ph1_nm":32,
+    "satis_rec_nm":15,
+    "percent":"0.615384615"
+  },
+  "Wood": {
+    "County":"'250",
+    "d":37,
+    "satis_ph1_nm":23,
+    "satis_rec_nm":12,
+    "percent":"0.621621622"
+  },
+  "Yoakum": {
+    "County":"'251",
+    "d":17,
+    "satis_ph1_nm":13,
+    "satis_rec_nm":2,
+    "percent":"0.764705882"
+  },
+  "Young": {
+    "County":"'252",
+    "d":24,
+    "satis_ph1_nm":13,
+    "satis_rec_nm":8,
+    "percent":"0.541666667"
+  },
+  "Zapata": {
+    "County":"'253",
+    "d":11,
+    "satis_ph1_nm":9,
+    "satis_rec_nm":5,
+    "percent":"0.818181818"
+  },
+  "Zavala": {
+    "County":"'254",
+    "d":11,
+    "satis_ph1_nm":6,
+    "satis_rec_nm":2,
+    "percent":"0.545454545"
+  }
+}

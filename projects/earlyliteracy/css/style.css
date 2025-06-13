@@ -1,0 +1,252 @@
+/*
+style.css
+*/
+
+/*PAGE ELEMENTS*/
+
+html, body{
+    margin:15px;
+    color:grey;
+}
+
+.axis line,
+.axis path {
+    fill: none;
+    stroke: grey;
+    shape-rendering: crispEdges;
+}
+.axis text {
+    font: 10px sans-serif;
+    fill: grey;
+}
+
+.button{
+    color:grey;
+}
+
+.d3-tip{
+    font-weight: normal;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+
+/*POSITIONING*/
+
+.relative{
+    position:relative;
+}
+
+/* TEXT STYLES */
+
+#donutCaption{
+    text-align:center;
+    width:250px;
+    position:absolute;
+    top:85px;
+    left:50px;
+}
+
+#interactiveTitle{
+    font-size: 30px;
+}
+
+.blue{ 
+    color:#003663; 
+}
+
+.captionText{
+    font-size: 20px;
+    line-height: 45px;
+    width:400px;
+}
+
+.interactiveText{
+    line-height: 45px;
+    width:350px;
+    
+}
+
+.number{
+    font-weight:bold;
+    font-size: 50px;
+}
+
+.orange{
+    color: #f15728;
+}
+
+.red{ 
+    color:#c4161c; 
+}
+
+.supportingText{
+    font-size: 20px;
+}
+
+.yellow{ 
+    color: #fdb713; 
+}
+
+.datacaption{
+    font-size: 10px;
+    margin-top: 5px;
+    margin-top: 5px;
+}
+
+/*SLIDER*/
+
+input[type=range]{
+    -webkit-appearance: none;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    width: 300px;
+    height: 8px;
+    background: lightgrey;
+    border: none;
+    border-radius: 3px;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    border: none;
+    height: 20px;
+    width: 20px;
+    border-radius: 40%;
+    background: grey;
+    margin-top: -6px;
+}
+
+input[type=range]:focus {
+    outline: none;
+}
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+    background: lightgrey;
+}
+
+input[type=range]::-webkit-slider-thumb:hover {
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+.chartText{
+    font: 45px sans-serif;
+    font-weight: bold;
+    width:350px;
+}
+
+.chartText2{
+    fill:grey;
+    font-size: 20px;
+}
+
+.chartTextRed{
+    fill:#c4161c;
+    font-size: 20px;
+}
+
+
+
+
+.barLabel{
+    font: 10px sans-serif;
+    fill: grey;
+    font-weight: bold;
+}
+
+
+.countyArea:hover{
+    cursor:pointer;
+}
+
+.countyOutline {
+	fill: none;
+  	stroke-linejoin: round;
+}
+
+.center{
+    text-align: center;
+}
+
+.infoButton{
+    font-size: 20px;
+    color:grey;
+    margin:5px;
+}
+
+.infoButton:hover{
+    background-color: lightgrey;
+    cursor: pointer;
+    color: white;
+}
+
+#infoCaptionDiv{
+    width:1000px;
+    text-align:left;
+    margin-left:auto;
+    margin-right:auto;
+    padding:25px;
+}
+
+#infoTitle{
+    font-size: 35px;
+    height:125px;
+}
+
+.infoText{
+    height:125px;
+    width:1000px;
+    font-size: 25px;
+    line-height:45px;
+    margin-top:auto;
+    margin-bottom:auto;
+}
+
+.countyLabel{
+    fill:lightgrey;
+    font-size:4px;
+}
+
+#infoCentered{
+    text-align: center;
+}
+
+.numberInfo{
+    
+    font-size:2em;
+}
+
+.countyPercent{
+    fill:lightgrey;
+    font-size:3px;
+    font-weight: bold;
+}
+
+#googleMap {
+    width: 525px;
+    height: 525px;
+}
+
+.schools, .schools svg {
+    position: absolute;
+}
+
+.schoolBubble{
+    opacity:.75;
+}
+
+
+
+.title{
+    color:grey;
+}
+

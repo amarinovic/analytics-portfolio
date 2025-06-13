@@ -1,0 +1,3818 @@
+[
+  {
+    "id":57802001,
+    "name":"PEGASUS CHARTER H S",
+    "latitude":32.7847943,
+    "longitude":-96.8008368,
+    "testedNum":40,
+    "gradeLevelNum":18,
+    "literacyRate":0.45
+  },
+  {
+    "id":57803101,
+    "name":"UPLIFT EDUCATIION-NORTH HILLS PREP PRI",
+    "latitude":32.8948708,
+    "longitude":-96.9344482,
+    "testedNum":94,
+    "gradeLevelNum":92,
+    "literacyRate":0.978723404
+  },
+  {
+    "id":57803102,
+    "name":"UPLIFT EDUCATION - INFINITY PREPARATORY PRI",
+    "latitude":32.7993011,
+    "longitude":-96.9598312,
+    "testedNum":71,
+    "gradeLevelNum":52,
+    "literacyRate":0.732394366
+  },
+  {
+    "id":57805101,
+    "name":"LINDSLEY PARK COMMUNITY SCHOOL",
+    "latitude":32.808037,
+    "longitude":-96.738277,
+    "testedNum":28,
+    "gradeLevelNum":20,
+    "literacyRate":0.714285714
+  },
+  {
+    "id":57806101,
+    "name":"ADVANTAGE ACADEMY",
+    "latitude":32.6475437,
+    "longitude":-96.8320202,
+    "testedNum":142,
+    "gradeLevelNum":86,
+    "literacyRate":0.605633803
+  },
+  {
+    "id":57807001,
+    "name":"LIFE SCHOOL OAK CLIFF",
+    "latitude":32.691206,
+    "longitude":-96.8226063,
+    "testedNum":114,
+    "gradeLevelNum":55,
+    "literacyRate":0.48245614
+  },
+  {
+    "id":57807101,
+    "name":"LIFE SCHOOL RED OAK",
+    "latitude":32.500049,
+    "longitude":-96.822727,
+    "testedNum":146,
+    "gradeLevelNum":120,
+    "literacyRate":0.821917808
+  },
+  {
+    "id":57807102,
+    "name":"LIFE SCHOOL LANCASTER",
+    "latitude":32.5770493,
+    "longitude":-96.8214417,
+    "testedNum":91,
+    "gradeLevelNum":56,
+    "literacyRate":0.615384615
+  },
+  {
+    "id":57807104,
+    "name":"LIFE SCHOOL CEDAR HILL",
+    "latitude":32.6198425,
+    "longitude":-96.9467163,
+    "testedNum":99,
+    "gradeLevelNum":82,
+    "literacyRate":0.828282828
+  },
+  {
+    "id":57808101,
+    "name":"UNIVERSAL ACADEMY",
+    "latitude":32.8426628,
+    "longitude":-96.9581146,
+    "testedNum":82,
+    "gradeLevelNum":55,
+    "literacyRate":0.670731707
+  },
+  {
+    "id":57808102,
+    "name":"UNIVERSAL ACADEMY - FLOWER MOUND",
+    "latitude":32.842663,
+    "longitude":-96.958115,
+    "testedNum":109,
+    "gradeLevelNum":108,
+    "literacyRate":0.990825688
+  },
+  {
+    "id":57809101,
+    "name":"NOVA ACADEMY",
+    "latitude":32.764335,
+    "longitude":-96.709934,
+    "testedNum":8,
+    "gradeLevelNum":8,
+    "literacyRate":1
+  },
+  {
+    "id":57810101,
+    "name":"ACADEMY OF DALLAS",
+    "latitude":32.6881181,
+    "longitude":-96.8386533,
+    "testedNum":19,
+    "gradeLevelNum":8,
+    "literacyRate":0.421052632
+  },
+  {
+    "id":57813101,
+    "name":"TRINITY BASIN PREPARATORY",
+    "latitude":32.7418289,
+    "longitude":-96.8237381,
+    "testedNum":172,
+    "gradeLevelNum":100,
+    "literacyRate":0.581395349
+  },
+  {
+    "id":57815101,
+    "name":"FAITH FAMILY ACADEMY OF OAK CLIFF",
+    "latitude":32.6222538,
+    "longitude":-96.8518451,
+    "testedNum":162,
+    "gradeLevelNum":72,
+    "literacyRate":0.444444444
+  },
+  {
+    "id":57816101,
+    "name":"AW BROWN-FELLOWSHIP CHARTER SCHOOL",
+    "latitude":32.6776619,
+    "longitude":-96.8815918,
+    "testedNum":144,
+    "gradeLevelNum":95,
+    "literacyRate":0.659722222
+  },
+  {
+    "id":57817101,
+    "name":"FOCUS LEARNING ACADEMY",
+    "latitude":32.6911665,
+    "longitude":-96.8602136,
+    "testedNum":77,
+    "gradeLevelNum":40,
+    "literacyRate":0.519480519
+  },
+  {
+    "id":57819001,
+    "name":"JEAN MASSIEU ACADEMY",
+    "latitude":32.7473717,
+    "longitude":-97.1061172,
+    "testedNum":20,
+    "gradeLevelNum":10,
+    "literacyRate":0.5
+  },
+  {
+    "id":57825001,
+    "name":"PINNACLE ACADEMY",
+    "latitude":32.7698708,
+    "longitude":-96.7248077,
+    "testedNum":15,
+    "gradeLevelNum":12,
+    "literacyRate":0.8
+  },
+  {
+    "id":57825006,
+    "name":"BRANCH PARK ACADEMY",
+    "latitude":32.9289148,
+    "longitude":-96.8730567,
+    "testedNum":6,
+    "gradeLevelNum":4,
+    "literacyRate":0.666666667
+  },
+  {
+    "id":57825012,
+    "name":"CREEKVIEW ACADEMY",
+    "latitude":31.1153488,
+    "longitude":-97.7324753,
+    "testedNum":18,
+    "gradeLevelNum":14,
+    "literacyRate":0.777777778
+  },
+  {
+    "id":57825013,
+    "name":"WILMER ACADEMY",
+    "latitude":32.5870827,
+    "longitude":-96.684034,
+    "testedNum":16,
+    "gradeLevelNum":6,
+    "literacyRate":0.375
+  },
+  {
+    "id":57827101,
+    "name":"NOVA ACADEMY (SOUTHEAST)",
+    "latitude":32.764335,
+    "longitude":-96.709934,
+    "testedNum":28,
+    "gradeLevelNum":13,
+    "literacyRate":0.464285714
+  },
+  {
+    "id":57827102,
+    "name":"NOVA ACADEMY PRICHARD",
+    "latitude":32.7621269,
+    "longitude":-96.6881256,
+    "testedNum":54,
+    "gradeLevelNum":33,
+    "literacyRate":0.611111111
+  },
+  {
+    "id":57829001,
+    "name":"A+ ACADEMY",
+    "latitude":32.6929474,
+    "longitude":-96.6454163,
+    "testedNum":69,
+    "gradeLevelNum":43,
+    "literacyRate":0.623188406
+  },
+  {
+    "id":57830001,
+    "name":"INSPIRED VISION ACADEMY EL",
+    "latitude":32.7491112,
+    "longitude":-96.6789398,
+    "testedNum":70,
+    "gradeLevelNum":57,
+    "literacyRate":0.814285714
+  },
+  {
+    "id":57831001,
+    "name":"GATEWAY CHARTER ACADEMY -EL",
+    "latitude":32.6737938,
+    "longitude":-96.8076172,
+    "testedNum":56,
+    "gradeLevelNum":31,
+    "literacyRate":0.553571429
+  },
+  {
+    "id":57833001,
+    "name":"EDUCATION CENTER INTERNATIONAL ACADEMY 1",
+    "latitude":32.774403,
+    "longitude":-96.62112,
+    "testedNum":10,
+    "gradeLevelNum":6,
+    "literacyRate":0.6
+  },
+  {
+    "id":57833002,
+    "name":"EDUCATION CENTER INTERNATIONAL ACADEMY 2",
+    "latitude":32.774403,
+    "longitude":-96.62112,
+    "testedNum":23,
+    "gradeLevelNum":15,
+    "literacyRate":0.652173913
+  },
+  {
+    "id":57835001,
+    "name":"GOLDEN RULE CHARTER SCHOOL",
+    "latitude":32.7195396,
+    "longitude":-96.863121,
+    "testedNum":58,
+    "gradeLevelNum":36,
+    "literacyRate":0.620689655
+  },
+  {
+    "id":57835101,
+    "name":"GOLDEN RULE",
+    "latitude":32.720351,
+    "longitude":-96.86342,
+    "testedNum":19,
+    "gradeLevelNum":15,
+    "literacyRate":0.789473684
+  },
+  {
+    "id":57835102,
+    "name":"GOLDEN RULE DESOTO",
+    "latitude":32.71954,
+    "longitude":-96.863121,
+    "testedNum":13,
+    "gradeLevelNum":1,
+    "literacyRate":0.076923077
+  },
+  {
+    "id":57835103,
+    "name":"GOLDEN RULE SOUTHWEST",
+    "latitude":32.7195396,
+    "longitude":-96.863121,
+    "testedNum":11,
+    "gradeLevelNum":4,
+    "literacyRate":0.363636364
+  },
+  {
+    "id":57836101,
+    "name":"ST ANTHONY ACADEMY",
+    "latitude":32.762009,
+    "longitude":-96.7615552,
+    "testedNum":30,
+    "gradeLevelNum":26,
+    "literacyRate":0.866666667
+  },
+  {
+    "id":57838001,
+    "name":"UPLIFT EDUCATION-PEAK PREP PRI",
+    "latitude":32.8015327,
+    "longitude":-96.7750397,
+    "testedNum":64,
+    "gradeLevelNum":45,
+    "literacyRate":0.703125
+  },
+  {
+    "id":57838007,
+    "name":"UPLIFT EDUCATION - LUNA PREPARATORY - PRI",
+    "latitude":32.7838821,
+    "longitude":-96.806839,
+    "testedNum":51,
+    "gradeLevelNum":44,
+    "literacyRate":0.862745098
+  },
+  {
+    "id":57838009,
+    "name":"UPLIFT EDUCATION - PINNACLE PREP PRI",
+    "latitude":32.7207573,
+    "longitude":-96.8367221,
+    "testedNum":68,
+    "gradeLevelNum":41,
+    "literacyRate":0.602941176
+  },
+  {
+    "id":57839101,
+    "name":"LA ACADEMIA DE ESTRELLAS",
+    "latitude":32.744181,
+    "longitude":-96.8233312,
+    "testedNum":81,
+    "gradeLevelNum":53,
+    "literacyRate":0.654320988
+  },
+  {
+    "id":57841001,
+    "name":"RECONCILIATION ACADEMY",
+    "latitude":32.799486,
+    "longitude":-96.779532,
+    "testedNum":19,
+    "gradeLevelNum":6,
+    "literacyRate":0.315789474
+  },
+  {
+    "id":57842101,
+    "name":"UPLIFT EDUCATION-WILLIAMS PREP PRI",
+    "latitude":32.8362063,
+    "longitude":-96.8688268,
+    "testedNum":113,
+    "gradeLevelNum":91,
+    "literacyRate":0.805309735
+  },
+  {
+    "id":57843101,
+    "name":"UPLIFT EDUCATION-HAMPTON PREP PRI",
+    "latitude":32.6394653,
+    "longitude":-96.8582077,
+    "testedNum":66,
+    "gradeLevelNum":41,
+    "literacyRate":0.621212121
+  },
+  {
+    "id":57844101,
+    "name":"MANARA ACADEMY",
+    "latitude":32.9192123,
+    "longitude":-97.0055237,
+    "testedNum":73,
+    "gradeLevelNum":64,
+    "literacyRate":0.876712329
+  },
+  {
+    "id":57845001,
+    "name":"UME PREPARATORY ACADEMY",
+    "latitude":32.6560249,
+    "longitude":-96.9262009,
+    "testedNum":37,
+    "gradeLevelNum":32,
+    "literacyRate":0.864864865
+  },
+  {
+    "id":57846001,
+    "name":"LEGACY PREPARATORY",
+    "latitude":32.7674751,
+    "longitude":-96.6730576,
+    "testedNum":44,
+    "gradeLevelNum":24,
+    "literacyRate":0.545454545
+  },
+  {
+    "id":57846002,
+    "name":"MESQUITE CAMPUS",
+    "latitude":32.7734642,
+    "longitude":-96.6209488,
+    "testedNum":46,
+    "gradeLevelNum":26,
+    "literacyRate":0.565217391
+  },
+  {
+    "id":57846003,
+    "name":"PLANO CAMPUS",
+    "latitude":32.9639053,
+    "longitude":-96.696167,
+    "testedNum":27,
+    "gradeLevelNum":22,
+    "literacyRate":0.814814815
+  },
+  {
+    "id":57847001,
+    "name":"VILLAGE TECH SCHOOLS",
+    "latitude":32.631256,
+    "longitude":-96.919574,
+    "testedNum":59,
+    "gradeLevelNum":49,
+    "literacyRate":0.830508475
+  },
+  {
+    "id":57848001,
+    "name":"INTERNATIONAL LEADERSHIP OF TEXAS (ILT)",
+    "latitude":32.9477325,
+    "longitude":-96.6654336,
+    "testedNum":128,
+    "gradeLevelNum":102,
+    "literacyRate":0.796875
+  },
+  {
+    "id":57848004,
+    "name":"INTERNATIONAL LEADERSHIP OF TEXAS - ARLINGTON EL",
+    "latitude":32.6960526,
+    "longitude":-97.1829605,
+    "testedNum":138,
+    "gradeLevelNum":97,
+    "literacyRate":0.702898551
+  },
+  {
+    "id":57903102,
+    "name":"CARROLLTON EL",
+    "latitude":32.9570732,
+    "longitude":-96.8942108,
+    "testedNum":98,
+    "gradeLevelNum":73,
+    "literacyRate":0.744897959
+  },
+  {
+    "id":57903103,
+    "name":"CENTRAL EL",
+    "latitude":32.9453087,
+    "longitude":-96.8953171,
+    "testedNum":106,
+    "gradeLevelNum":73,
+    "literacyRate":0.688679245
+  },
+  {
+    "id":57903105,
+    "name":"GOOD EL",
+    "latitude":32.9704857,
+    "longitude":-96.9086304,
+    "testedNum":89,
+    "gradeLevelNum":71,
+    "literacyRate":0.797752809
+  },
+  {
+    "id":57903106,
+    "name":"STARK EL",
+    "latitude":32.9169121,
+    "longitude":-96.8806458,
+    "testedNum":71,
+    "gradeLevelNum":64,
+    "literacyRate":0.901408451
+  },
+  {
+    "id":57903109,
+    "name":"FARMERS BRANCH EL",
+    "latitude":32.928328,
+    "longitude":-96.888505,
+    "testedNum":85,
+    "gradeLevelNum":65,
+    "literacyRate":0.764705882
+  },
+  {
+    "id":57903110,
+    "name":"BLANTON EL",
+    "latitude":32.9834061,
+    "longitude":-96.8854752,
+    "testedNum":78,
+    "gradeLevelNum":49,
+    "literacyRate":0.628205128
+  },
+  {
+    "id":57903111,
+    "name":"THOMPSON EL",
+    "latitude":32.99506,
+    "longitude":-96.8805695,
+    "testedNum":95,
+    "gradeLevelNum":75,
+    "literacyRate":0.789473684
+  },
+  {
+    "id":57903112,
+    "name":"COUNTRY PLACE EL",
+    "latitude":32.9667397,
+    "longitude":-96.8633652,
+    "testedNum":41,
+    "gradeLevelNum":41,
+    "literacyRate":1
+  },
+  {
+    "id":57903113,
+    "name":"DAVIS EL",
+    "latitude":33.0052834,
+    "longitude":-96.8905869,
+    "testedNum":71,
+    "gradeLevelNum":61,
+    "literacyRate":0.85915493
+  },
+  {
+    "id":57903114,
+    "name":"MCCOY EL",
+    "latitude":32.9814148,
+    "longitude":-96.8991013,
+    "testedNum":63,
+    "gradeLevelNum":59,
+    "literacyRate":0.936507937
+  },
+  {
+    "id":57903116,
+    "name":"FURNEAUX EL",
+    "latitude":33.0058556,
+    "longitude":-96.8729248,
+    "testedNum":55,
+    "gradeLevelNum":36,
+    "literacyRate":0.654545455
+  },
+  {
+    "id":57903118,
+    "name":"ROSEMEADE EL",
+    "latitude":33.0070596,
+    "longitude":-96.9067251,
+    "testedNum":58,
+    "gradeLevelNum":50,
+    "literacyRate":0.862068966
+  },
+  {
+    "id":57903120,
+    "name":"LAS COLINAS EL",
+    "latitude":32.9156952,
+    "longitude":-96.9782104,
+    "testedNum":95,
+    "gradeLevelNum":79,
+    "literacyRate":0.831578947
+  },
+  {
+    "id":57903121,
+    "name":"LANDRY EL",
+    "latitude":32.9314919,
+    "longitude":-96.9480286,
+    "testedNum":69,
+    "gradeLevelNum":44,
+    "literacyRate":0.637681159
+  },
+  {
+    "id":57903122,
+    "name":"KENT EL",
+    "latitude":32.9989929,
+    "longitude":-96.9218063,
+    "testedNum":63,
+    "gradeLevelNum":59,
+    "literacyRate":0.936507937
+  },
+  {
+    "id":57903123,
+    "name":"RIVERCHASE ELE",
+    "latitude":32.9639664,
+    "longitude":-96.9574203,
+    "testedNum":50,
+    "gradeLevelNum":42,
+    "literacyRate":0.84
+  },
+  {
+    "id":57903124,
+    "name":"MCKAMY EL",
+    "latitude":32.9912567,
+    "longitude":-96.861618,
+    "testedNum":76,
+    "gradeLevelNum":61,
+    "literacyRate":0.802631579
+  },
+  {
+    "id":57903125,
+    "name":"SHEFFIELD EL",
+    "latitude":33.000627,
+    "longitude":-96.8638393,
+    "testedNum":116,
+    "gradeLevelNum":85,
+    "literacyRate":0.732758621
+  },
+  {
+    "id":57903126,
+    "name":"RAINWATER EL",
+    "latitude":32.9975548,
+    "longitude":-96.9058838,
+    "testedNum":59,
+    "gradeLevelNum":50,
+    "literacyRate":0.847457627
+  },
+  {
+    "id":57903128,
+    "name":"FREEMAN EL",
+    "latitude":32.925827,
+    "longitude":-96.959343,
+    "testedNum":105,
+    "gradeLevelNum":86,
+    "literacyRate":0.819047619
+  },
+  {
+    "id":57903129,
+    "name":"MCWHORTER EL",
+    "latitude":33.0001373,
+    "longitude":-96.8502197,
+    "testedNum":94,
+    "gradeLevelNum":65,
+    "literacyRate":0.691489362
+  },
+  {
+    "id":57903131,
+    "name":"BLAIR EL",
+    "latitude":32.9377165,
+    "longitude":-96.8802195,
+    "testedNum":125,
+    "gradeLevelNum":70,
+    "literacyRate":0.56
+  },
+  {
+    "id":57903132,
+    "name":"LA VILLITA EL",
+    "latitude":32.9032669,
+    "longitude":-96.9370651,
+    "testedNum":73,
+    "gradeLevelNum":55,
+    "literacyRate":0.753424658
+  },
+  {
+    "id":57903135,
+    "name":"MCLAUGHLIN STRICKLAND EL",
+    "latitude":32.9456444,
+    "longitude":-96.8749847,
+    "testedNum":132,
+    "gradeLevelNum":73,
+    "literacyRate":0.553030303
+  },
+  {
+    "id":57904101,
+    "name":"BRAY EL",
+    "latitude":32.5919569,
+    "longitude":-96.9570708,
+    "testedNum":35,
+    "gradeLevelNum":22,
+    "literacyRate":0.628571429
+  },
+  {
+    "id":57904102,
+    "name":"PLUMMER EL",
+    "latitude":32.5657283,
+    "longitude":-96.9425272,
+    "testedNum":100,
+    "gradeLevelNum":73,
+    "literacyRate":0.73
+  },
+  {
+    "id":57904104,
+    "name":"HIGH POINTE EL",
+    "latitude":32.6161142,
+    "longitude":-96.9523649,
+    "testedNum":107,
+    "gradeLevelNum":61,
+    "literacyRate":0.570093458
+  },
+  {
+    "id":57904105,
+    "name":"HIGHLANDS ELEMENTARY",
+    "latitude":32.5889777,
+    "longitude":-96.9295386,
+    "testedNum":92,
+    "gradeLevelNum":68,
+    "literacyRate":0.739130435
+  },
+  {
+    "id":57904107,
+    "name":"WATERFORD OAKS EL",
+    "latitude":32.5984861,
+    "longitude":-96.916776,
+    "testedNum":110,
+    "gradeLevelNum":79,
+    "literacyRate":0.718181818
+  },
+  {
+    "id":57904108,
+    "name":"LAKERIDGE EL",
+    "latitude":32.569619,
+    "longitude":-97.005331,
+    "testedNum":56,
+    "gradeLevelNum":40,
+    "literacyRate":0.714285714
+  },
+  {
+    "id":57905101,
+    "name":"JOHN Q ADAMS EL",
+    "latitude":32.7351151,
+    "longitude":-96.6797867,
+    "testedNum":98,
+    "gradeLevelNum":67,
+    "literacyRate":0.683673469
+  },
+  {
+    "id":57905103,
+    "name":"GABE P ALLEN CHARTER SCHOOL",
+    "latitude":32.7815132,
+    "longitude":-96.9075623,
+    "testedNum":81,
+    "gradeLevelNum":42,
+    "literacyRate":0.518518519
+  },
+  {
+    "id":57905104,
+    "name":"WILLIAM M ANDERSON EL",
+    "latitude":32.7222939,
+    "longitude":-96.6555939,
+    "testedNum":108,
+    "gradeLevelNum":67,
+    "literacyRate":0.62037037
+  },
+  {
+    "id":57905105,
+    "name":"ARCADIA PARK EL",
+    "latitude":32.7593155,
+    "longitude":-96.9105301,
+    "testedNum":102,
+    "gradeLevelNum":74,
+    "literacyRate":0.725490196
+  },
+  {
+    "id":57905108,
+    "name":"BAYLES EL",
+    "latitude":32.8008385,
+    "longitude":-96.7068863,
+    "testedNum":90,
+    "gradeLevelNum":46,
+    "literacyRate":0.511111111
+  },
+  {
+    "id":57905109,
+    "name":"W A BLAIR EL",
+    "latitude":32.7087479,
+    "longitude":-96.6887207,
+    "testedNum":86,
+    "gradeLevelNum":60,
+    "literacyRate":0.697674419
+  },
+  {
+    "id":57905110,
+    "name":"ANNIE WEBB BLANTON EL",
+    "latitude":32.751904,
+    "longitude":-96.668694,
+    "testedNum":88,
+    "gradeLevelNum":39,
+    "literacyRate":0.443181818
+  },
+  {
+    "id":57905112,
+    "name":"JAMES BOWIE EL",
+    "latitude":32.752243,
+    "longitude":-96.8148575,
+    "testedNum":71,
+    "gradeLevelNum":40,
+    "literacyRate":0.563380282
+  },
+  {
+    "id":57905114,
+    "name":"JOHN NEELY BRYAN ELEMENTARY SCHOOL",
+    "latitude":32.711601,
+    "longitude":-96.795006,
+    "testedNum":93,
+    "gradeLevelNum":41,
+    "literacyRate":0.440860215
+  },
+  {
+    "id":57905115,
+    "name":"HARRELL BUDD EL",
+    "latitude":32.722065,
+    "longitude":-96.8151474,
+    "testedNum":72,
+    "gradeLevelNum":38,
+    "literacyRate":0.527777778
+  },
+  {
+    "id":57905116,
+    "name":"DAVID G BURNET EL",
+    "latitude":32.8764572,
+    "longitude":-96.869194,
+    "testedNum":171,
+    "gradeLevelNum":112,
+    "literacyRate":0.65497076
+  },
+  {
+    "id":57905117,
+    "name":"RUFUS C BURLESON EL",
+    "latitude":32.7187233,
+    "longitude":-96.7131882,
+    "testedNum":97,
+    "gradeLevelNum":56,
+    "literacyRate":0.577319588
+  },
+  {
+    "id":57905118,
+    "name":"W W BUSHMAN ELEMENTARY SCHOOL",
+    "latitude":32.708405,
+    "longitude":-96.773643,
+    "testedNum":75,
+    "gradeLevelNum":25,
+    "literacyRate":0.333333333
+  },
+  {
+    "id":57905119,
+    "name":"WILLIAM L CABELL EL",
+    "latitude":32.9220657,
+    "longitude":-96.8650513,
+    "testedNum":73,
+    "gradeLevelNum":52,
+    "literacyRate":0.712328767
+  },
+  {
+    "id":57905120,
+    "name":"F P CAILLET EL",
+    "latitude":32.8887291,
+    "longitude":-96.8745041,
+    "testedNum":111,
+    "gradeLevelNum":87,
+    "literacyRate":0.783783784
+  },
+  {
+    "id":57905121,
+    "name":"JOHN W CARPENTER EL",
+    "latitude":32.6957436,
+    "longitude":-96.853035,
+    "testedNum":54,
+    "gradeLevelNum":21,
+    "literacyRate":0.388888889
+  },
+  {
+    "id":57905122,
+    "name":"C F CARR EL",
+    "latitude":32.787872,
+    "longitude":-96.852737,
+    "testedNum":73,
+    "gradeLevelNum":31,
+    "literacyRate":0.424657534
+  },
+  {
+    "id":57905124,
+    "name":"GEORGE W CARVER CREATIVE ARTS LEARNING CENTER",
+    "latitude":32.7867584,
+    "longitude":-96.8654099,
+    "testedNum":72,
+    "gradeLevelNum":34,
+    "literacyRate":0.472222222
+  },
+  {
+    "id":57905125,
+    "name":"CASA VIEW EL",
+    "latitude":32.8456841,
+    "longitude":-96.6753769,
+    "testedNum":96,
+    "gradeLevelNum":75,
+    "literacyRate":0.78125
+  },
+  {
+    "id":57905126,
+    "name":"CENTRAL EL",
+    "latitude":32.6581993,
+    "longitude":-96.5376358,
+    "testedNum":75,
+    "gradeLevelNum":50,
+    "literacyRate":0.666666667
+  },
+  {
+    "id":57905128,
+    "name":"MARTIN LUTHER KING JR LEARNING CENTER",
+    "latitude":32.7608528,
+    "longitude":-96.7729721,
+    "testedNum":52,
+    "gradeLevelNum":28,
+    "literacyRate":0.538461538
+  },
+  {
+    "id":57905129,
+    "name":"S S CONNER EL",
+    "latitude":32.8082428,
+    "longitude":-96.6947479,
+    "testedNum":77,
+    "gradeLevelNum":43,
+    "literacyRate":0.558441558
+  },
+  {
+    "id":57905130,
+    "name":"LEILA P COWART EL",
+    "latitude":32.7280045,
+    "longitude":-96.8699265,
+    "testedNum":100,
+    "gradeLevelNum":51,
+    "literacyRate":0.51
+  },
+  {
+    "id":57905131,
+    "name":"IGNACIO ZARAGOZA EL",
+    "latitude":32.795155,
+    "longitude":-96.770851,
+    "testedNum":72,
+    "gradeLevelNum":47,
+    "literacyRate":0.652777778
+  },
+  {
+    "id":57905133,
+    "name":"BARBARA JORDAN EL",
+    "latitude":32.7065468,
+    "longitude":-96.8416672,
+    "testedNum":80,
+    "gradeLevelNum":44,
+    "literacyRate":0.55
+  },
+  {
+    "id":57905134,
+    "name":"GEORGE BANNERMAN DEALEY MONTESSORI VANGUARD",
+    "latitude":32.8957558,
+    "longitude":-96.7917862,
+    "testedNum":64,
+    "gradeLevelNum":63,
+    "literacyRate":0.984375
+  },
+  {
+    "id":57905135,
+    "name":"EVERETTE LEE DEGOLYER EL",
+    "latitude":32.903839,
+    "longitude":-96.860878,
+    "testedNum":59,
+    "gradeLevelNum":48,
+    "literacyRate":0.813559322
+  },
+  {
+    "id":57905136,
+    "name":"L O DONALD EL",
+    "latitude":32.7325096,
+    "longitude":-96.8864517,
+    "testedNum":59,
+    "gradeLevelNum":32,
+    "literacyRate":0.542372881
+  },
+  {
+    "id":57905137,
+    "name":"JULIUS DORSEY EL",
+    "latitude":32.7130241,
+    "longitude":-96.6581573,
+    "testedNum":68,
+    "gradeLevelNum":53,
+    "literacyRate":0.779411765
+  },
+  {
+    "id":57905139,
+    "name":"PAUL L DUNBAR LEARNING CENTER",
+    "latitude":32.774826,
+    "longitude":-96.7492065,
+    "testedNum":72,
+    "gradeLevelNum":34,
+    "literacyRate":0.472222222
+  },
+  {
+    "id":57905140,
+    "name":"AMELIA EARHART LEARNING CENTER",
+    "latitude":32.7850456,
+    "longitude":-96.8753815,
+    "testedNum":35,
+    "gradeLevelNum":25,
+    "literacyRate":0.714285714
+  },
+  {
+    "id":57905141,
+    "name":"JILL STONE EL AT VICKERY MEADOW",
+    "latitude":32.865509,
+    "longitude":-96.7494965,
+    "testedNum":55,
+    "gradeLevelNum":42,
+    "literacyRate":0.763636364
+  },
+  {
+    "id":57905142,
+    "name":"J N ERVIN EL SCHOOL",
+    "latitude":32.6803592,
+    "longitude":-96.7633282,
+    "testedNum":96,
+    "gradeLevelNum":45,
+    "literacyRate":0.46875
+  },
+  {
+    "id":57905144,
+    "name":"TOM W FIELD EL",
+    "latitude":32.8964386,
+    "longitude":-96.905983,
+    "testedNum":63,
+    "gradeLevelNum":33,
+    "literacyRate":0.523809524
+  },
+  {
+    "id":57905145,
+    "name":"STEPHEN C FOSTER EL",
+    "latitude":32.869976,
+    "longitude":-96.8544998,
+    "testedNum":109,
+    "gradeLevelNum":78,
+    "literacyRate":0.71559633
+  },
+  {
+    "id":57905147,
+    "name":"CHARLES A GILL EL",
+    "latitude":32.8442078,
+    "longitude":-96.6607208,
+    "testedNum":141,
+    "gradeLevelNum":86,
+    "literacyRate":0.609929078
+  },
+  {
+    "id":57905148,
+    "name":"TOM C GOOCH EL",
+    "latitude":32.9170189,
+    "longitude":-96.8451996,
+    "testedNum":35,
+    "gradeLevelNum":29,
+    "literacyRate":0.828571429
+  },
+  {
+    "id":57905149,
+    "name":"LENORE KIRK HALL EL",
+    "latitude":32.7221642,
+    "longitude":-96.8807678,
+    "testedNum":94,
+    "gradeLevelNum":65,
+    "literacyRate":0.691489362
+  },
+  {
+    "id":57905152,
+    "name":"MARGARET B HENDERSON EL",
+    "latitude":32.7238617,
+    "longitude":-96.8433075,
+    "testedNum":72,
+    "gradeLevelNum":58,
+    "literacyRate":0.805555556
+  },
+  {
+    "id":57905153,
+    "name":"VICTOR H HEXTER EL",
+    "latitude":32.849232,
+    "longitude":-96.709579,
+    "testedNum":86,
+    "gradeLevelNum":79,
+    "literacyRate":0.918604651
+  },
+  {
+    "id":57905154,
+    "name":"LARRY G SMITH EL",
+    "latitude":32.8330154,
+    "longitude":-96.6592865,
+    "testedNum":116,
+    "gradeLevelNum":68,
+    "literacyRate":0.586206897
+  },
+  {
+    "id":57905155,
+    "name":"C A TATUM JR EL",
+    "latitude":32.6641855,
+    "longitude":-96.6571308,
+    "testedNum":109,
+    "gradeLevelNum":62,
+    "literacyRate":0.568807339
+  },
+  {
+    "id":57905156,
+    "name":"NATHANIEL HAWTHORNE EL",
+    "latitude":32.7421265,
+    "longitude":-96.6888351,
+    "testedNum":55,
+    "gradeLevelNum":30,
+    "literacyRate":0.545454545
+  },
+  {
+    "id":57905157,
+    "name":"JAMES S HOGG ELEMENTARY SCHOOL",
+    "latitude":32.7568474,
+    "longitude":-96.8250732,
+    "testedNum":42,
+    "gradeLevelNum":21,
+    "literacyRate":0.5
+  },
+  {
+    "id":57905158,
+    "name":"LIDA HOOE EL",
+    "latitude":32.7407608,
+    "longitude":-96.8579865,
+    "testedNum":67,
+    "gradeLevelNum":48,
+    "literacyRate":0.71641791
+  },
+  {
+    "id":57905159,
+    "name":"L L HOTCHKISS EL",
+    "latitude":32.8586617,
+    "longitude":-96.7404938,
+    "testedNum":134,
+    "gradeLevelNum":68,
+    "literacyRate":0.507462687
+  },
+  {
+    "id":57905160,
+    "name":"SAM HOUSTON EL",
+    "latitude":32.8101349,
+    "longitude":-96.8133469,
+    "testedNum":40,
+    "gradeLevelNum":33,
+    "literacyRate":0.825
+  },
+  {
+    "id":57905161,
+    "name":"JOHN IRELAND EL",
+    "latitude":32.7395477,
+    "longitude":-96.7014008,
+    "testedNum":81,
+    "gradeLevelNum":46,
+    "literacyRate":0.567901235
+  },
+  {
+    "id":57905162,
+    "name":"STONEWALL JACKSON ELEMENTARY SCHOOL",
+    "latitude":32.8356247,
+    "longitude":-96.7673416,
+    "testedNum":85,
+    "gradeLevelNum":80,
+    "literacyRate":0.941176471
+  },
+  {
+    "id":57905163,
+    "name":"ALBERT SIDNEY JOHNSTON ELEMENTARY SCHOOL",
+    "latitude":32.737465,
+    "longitude":-96.792953,
+    "testedNum":78,
+    "gradeLevelNum":45,
+    "literacyRate":0.576923077
+  },
+  {
+    "id":57905164,
+    "name":"ANSON JONES EL",
+    "latitude":32.7429237,
+    "longitude":-96.884552,
+    "testedNum":110,
+    "gradeLevelNum":72,
+    "literacyRate":0.654545455
+  },
+  {
+    "id":57905166,
+    "name":"EDWIN J KIEST EL",
+    "latitude":32.8259163,
+    "longitude":-96.6697311,
+    "testedNum":98,
+    "gradeLevelNum":72,
+    "literacyRate":0.734693878
+  },
+  {
+    "id":57905167,
+    "name":"KLEBERG EL",
+    "latitude":32.6843452,
+    "longitude":-96.6004944,
+    "testedNum":92,
+    "gradeLevelNum":63,
+    "literacyRate":0.684782609
+  },
+  {
+    "id":57905168,
+    "name":"OBADIAH KNIGHT ELEMENTARY SCHOOL",
+    "latitude":32.8368645,
+    "longitude":-96.8518143,
+    "testedNum":82,
+    "gradeLevelNum":64,
+    "literacyRate":0.780487805
+  },
+  {
+    "id":57905169,
+    "name":"ARTHUR KRAMER EL SCHOOL",
+    "latitude":32.9022179,
+    "longitude":-96.7832718,
+    "testedNum":75,
+    "gradeLevelNum":58,
+    "literacyRate":0.773333333
+  },
+  {
+    "id":57905170,
+    "name":"RICHARD LAGOW EL",
+    "latitude":32.70245,
+    "longitude":-96.636398,
+    "testedNum":81,
+    "gradeLevelNum":57,
+    "literacyRate":0.703703704
+  },
+  {
+    "id":57905171,
+    "name":"LAKEWOOD EL",
+    "latitude":32.8256989,
+    "longitude":-96.7433929,
+    "testedNum":120,
+    "gradeLevelNum":113,
+    "literacyRate":0.941666667
+  },
+  {
+    "id":57905172,
+    "name":"JIMMIE TYLER BRASHEAR EL",
+    "latitude":32.7782424,
+    "longitude":-96.856669,
+    "testedNum":89,
+    "gradeLevelNum":72,
+    "literacyRate":0.808988764
+  },
+  {
+    "id":57905173,
+    "name":"SIDNEY LANIER EXPRESSIVE ARTS VANGUARD",
+    "latitude":32.7680054,
+    "longitude":-96.8441849,
+    "testedNum":73,
+    "gradeLevelNum":57,
+    "literacyRate":0.780821918
+  },
+  {
+    "id":57905174,
+    "name":"ROBERT E LEE EL",
+    "latitude":32.8241577,
+    "longitude":-96.766861,
+    "testedNum":54,
+    "gradeLevelNum":41,
+    "literacyRate":0.759259259
+  },
+  {
+    "id":57905175,
+    "name":"UMPHREY LEE ELEMENTARY SCHOOL",
+    "latitude":32.6528549,
+    "longitude":-96.8349838,
+    "testedNum":93,
+    "gradeLevelNum":30,
+    "literacyRate":0.322580645
+  },
+  {
+    "id":57905176,
+    "name":"JACK LOWE SR EL",
+    "latitude":32.8730719,
+    "longitude":-96.7620112,
+    "testedNum":90,
+    "gradeLevelNum":40,
+    "literacyRate":0.444444444
+  },
+  {
+    "id":57905177,
+    "name":"WILLIAM LIPSCOMB EL",
+    "latitude":32.807163,
+    "longitude":-96.757019,
+    "testedNum":82,
+    "gradeLevelNum":51,
+    "literacyRate":0.62195122
+  },
+  {
+    "id":57905178,
+    "name":"H I HOLLAND EL AT LISBON",
+    "latitude":32.6973763,
+    "longitude":-96.7957916,
+    "testedNum":38,
+    "gradeLevelNum":24,
+    "literacyRate":0.631578947
+  },
+  {
+    "id":57905180,
+    "name":"B H MACON EL",
+    "latitude":32.7222786,
+    "longitude":-96.6728668,
+    "testedNum":64,
+    "gradeLevelNum":48,
+    "literacyRate":0.75
+  },
+  {
+    "id":57905181,
+    "name":"MAPLE LAWN EL",
+    "latitude":32.8258858,
+    "longitude":-96.8298645,
+    "testedNum":84,
+    "gradeLevelNum":55,
+    "literacyRate":0.654761905
+  },
+  {
+    "id":57905182,
+    "name":"HERBERT MARCUS EL",
+    "latitude":32.9046364,
+    "longitude":-96.8793793,
+    "testedNum":132,
+    "gradeLevelNum":89,
+    "literacyRate":0.674242424
+  },
+  {
+    "id":57905183,
+    "name":"THOMAS L MARSALIS EL",
+    "latitude":32.6781731,
+    "longitude":-96.8133392,
+    "testedNum":83,
+    "gradeLevelNum":51,
+    "literacyRate":0.614457831
+  },
+  {
+    "id":57905184,
+    "name":"BEN MILAM EL",
+    "latitude":32.8163757,
+    "longitude":-96.7901306,
+    "testedNum":42,
+    "gradeLevelNum":32,
+    "literacyRate":0.761904762
+  },
+  {
+    "id":57905185,
+    "name":"WILLIAM B MILLER ELEMENTARY SCHOOL",
+    "latitude":32.718961,
+    "longitude":-96.780283,
+    "testedNum":48,
+    "gradeLevelNum":30,
+    "literacyRate":0.625
+  },
+  {
+    "id":57905186,
+    "name":"ROGER Q MILLS EL",
+    "latitude":32.7328758,
+    "longitude":-96.8023224,
+    "testedNum":66,
+    "gradeLevelNum":37,
+    "literacyRate":0.560606061
+  },
+  {
+    "id":57905187,
+    "name":"NANCY MOSELEY EL",
+    "latitude":32.6894226,
+    "longitude":-96.6416779,
+    "testedNum":116,
+    "gradeLevelNum":68,
+    "literacyRate":0.586206897
+  },
+  {
+    "id":57905188,
+    "name":"MOUNT AUBURN EL",
+    "latitude":32.7958298,
+    "longitude":-96.7440262,
+    "testedNum":113,
+    "gradeLevelNum":77,
+    "literacyRate":0.681415929
+  },
+  {
+    "id":57905189,
+    "name":"CLARA OLIVER EL",
+    "latitude":32.694916,
+    "longitude":-96.810982,
+    "testedNum":49,
+    "gradeLevelNum":20,
+    "literacyRate":0.408163265
+  },
+  {
+    "id":57905190,
+    "name":"GEORGE PEABODY EL",
+    "latitude":32.7428627,
+    "longitude":-96.8724594,
+    "testedNum":80,
+    "gradeLevelNum":51,
+    "literacyRate":0.6375
+  },
+  {
+    "id":57905191,
+    "name":"ELISHA M PEASE EL",
+    "latitude":32.697998,
+    "longitude":-96.772644,
+    "testedNum":87,
+    "gradeLevelNum":34,
+    "literacyRate":0.390804598
+  },
+  {
+    "id":57905192,
+    "name":"JOHN F PEELER EL",
+    "latitude":32.73806,
+    "longitude":-96.8311768,
+    "testedNum":52,
+    "gradeLevelNum":27,
+    "literacyRate":0.519230769
+  },
+  {
+    "id":57905193,
+    "name":"JOHN J PERSHING EL",
+    "latitude":32.8875961,
+    "longitude":-96.8098297,
+    "testedNum":67,
+    "gradeLevelNum":45,
+    "literacyRate":0.671641791
+  },
+  {
+    "id":57905194,
+    "name":"K B POLK CENTER FOR ACADEMICALLY TALENTED & GIFTED",
+    "latitude":32.8411484,
+    "longitude":-96.8316879,
+    "testedNum":54,
+    "gradeLevelNum":34,
+    "literacyRate":0.62962963
+  },
+  {
+    "id":57905195,
+    "name":"PRESTON HOLLOW EL",
+    "latitude":32.8805962,
+    "longitude":-96.794838,
+    "testedNum":51,
+    "gradeLevelNum":33,
+    "literacyRate":0.647058824
+  },
+  {
+    "id":57905196,
+    "name":"J W RAY LEARNING CENTER",
+    "latitude":32.8015213,
+    "longitude":-96.7893066,
+    "testedNum":64,
+    "gradeLevelNum":38,
+    "literacyRate":0.59375
+  },
+  {
+    "id":57905197,
+    "name":"JOHN H REAGAN ELEMENTARY SCHOOL",
+    "latitude":32.7468338,
+    "longitude":-96.8311462,
+    "testedNum":73,
+    "gradeLevelNum":43,
+    "literacyRate":0.589041096
+  },
+  {
+    "id":57905198,
+    "name":"MARTHA TURNER REILLY EL",
+    "latitude":32.855373,
+    "longitude":-96.688208,
+    "testedNum":80,
+    "gradeLevelNum":66,
+    "literacyRate":0.825
+  },
+  {
+    "id":57905199,
+    "name":"REINHARDT ELEMENTARY SCHOOL",
+    "latitude":32.8366089,
+    "longitude":-96.6909561,
+    "testedNum":100,
+    "gradeLevelNum":74,
+    "literacyRate":0.74
+  },
+  {
+    "id":57905200,
+    "name":"JOSEPH J RHOADS LEARNING CENTER",
+    "latitude":32.76342,
+    "longitude":-96.748726,
+    "testedNum":107,
+    "gradeLevelNum":52,
+    "literacyRate":0.485981308
+  },
+  {
+    "id":57905201,
+    "name":"CHARLES RICE LEARNING CENTER",
+    "latitude":32.7564888,
+    "longitude":-96.7621231,
+    "testedNum":69,
+    "gradeLevelNum":43,
+    "literacyRate":0.623188406
+  },
+  {
+    "id":57905202,
+    "name":"ORAN M ROBERTS EL",
+    "latitude":32.8063431,
+    "longitude":-96.7315979,
+    "testedNum":87,
+    "gradeLevelNum":45,
+    "literacyRate":0.517241379
+  },
+  {
+    "id":57905203,
+    "name":"DAN D ROGERS EL",
+    "latitude":32.8520508,
+    "longitude":-96.7516861,
+    "testedNum":73,
+    "gradeLevelNum":54,
+    "literacyRate":0.739726027
+  },
+  {
+    "id":57905204,
+    "name":"ROSEMONT ELEMENTARY SCHOOL",
+    "latitude":32.7516708,
+    "longitude":-96.8473511,
+    "testedNum":155,
+    "gradeLevelNum":116,
+    "literacyRate":0.748387097
+  },
+  {
+    "id":57905205,
+    "name":"CLINTON P RUSSELL EL",
+    "latitude":32.708779,
+    "longitude":-96.823906,
+    "testedNum":112,
+    "gradeLevelNum":69,
+    "literacyRate":0.616071429
+  },
+  {
+    "id":57905206,
+    "name":"ALEX SANGER EL",
+    "latitude":32.8134613,
+    "longitude":-96.709465,
+    "testedNum":72,
+    "gradeLevelNum":49,
+    "literacyRate":0.680555556
+  },
+  {
+    "id":57905207,
+    "name":"SAN JACINTO EL",
+    "latitude":32.7569618,
+    "longitude":-96.6859512,
+    "testedNum":71,
+    "gradeLevelNum":39,
+    "literacyRate":0.549295775
+  },
+  {
+    "id":57905208,
+    "name":"SEAGOVILLE EL",
+    "latitude":32.6408272,
+    "longitude":-96.5401077,
+    "testedNum":99,
+    "gradeLevelNum":75,
+    "literacyRate":0.757575758
+  },
+  {
+    "id":57905209,
+    "name":"ASCHER SILBERSTEIN EL",
+    "latitude":32.7672043,
+    "longitude":-96.7205353,
+    "testedNum":109,
+    "gradeLevelNum":76,
+    "literacyRate":0.697247706
+  },
+  {
+    "id":57905210,
+    "name":"LESLIE A STEMMONS EL",
+    "latitude":32.7156601,
+    "longitude":-96.9015198,
+    "testedNum":119,
+    "gradeLevelNum":84,
+    "literacyRate":0.705882353
+  },
+  {
+    "id":57905211,
+    "name":"STEVENS PARK EL",
+    "latitude":32.761906,
+    "longitude":-96.865257,
+    "testedNum":111,
+    "gradeLevelNum":56,
+    "literacyRate":0.504504505
+  },
+  {
+    "id":57905212,
+    "name":"HARRY STONE MONTESSORI ACADEMY (ES)",
+    "latitude":32.693428,
+    "longitude":-96.7838058,
+    "testedNum":51,
+    "gradeLevelNum":43,
+    "literacyRate":0.843137255
+  },
+  {
+    "id":57905213,
+    "name":"T G TERRY ELEMENTARY SCHOOL",
+    "latitude":32.665554,
+    "longitude":-96.8301773,
+    "testedNum":55,
+    "gradeLevelNum":38,
+    "literacyRate":0.690909091
+  },
+  {
+    "id":57905215,
+    "name":"R L THORNTON ELEMENTARY SCHOOL",
+    "latitude":32.6740913,
+    "longitude":-96.7979431,
+    "testedNum":60,
+    "gradeLevelNum":45,
+    "literacyRate":0.75
+  },
+  {
+    "id":57905216,
+    "name":"EDWARD TITCHE EL",
+    "latitude":32.7547607,
+    "longitude":-96.6585617,
+    "testedNum":138,
+    "gradeLevelNum":56,
+    "literacyRate":0.405797101
+  },
+  {
+    "id":57905218,
+    "name":"GEORGE W TRUETT EL",
+    "latitude":32.816429,
+    "longitude":-96.683495,
+    "testedNum":149,
+    "gradeLevelNum":74,
+    "literacyRate":0.496644295
+  },
+  {
+    "id":57905219,
+    "name":"ADELLE TURNER EL",
+    "latitude":32.6783714,
+    "longitude":-96.8423843,
+    "testedNum":66,
+    "gradeLevelNum":41,
+    "literacyRate":0.621212121
+  },
+  {
+    "id":57905220,
+    "name":"MARK TWAIN LEADERSHIP VANGUARD",
+    "latitude":32.6839714,
+    "longitude":-96.8334274,
+    "testedNum":64,
+    "gradeLevelNum":32,
+    "literacyRate":0.5
+  },
+  {
+    "id":57905222,
+    "name":"URBAN PARK EL SCHOOL",
+    "latitude":32.7739143,
+    "longitude":-96.701683,
+    "testedNum":101,
+    "gradeLevelNum":71,
+    "literacyRate":0.702970297
+  },
+  {
+    "id":57905224,
+    "name":"WALNUT HILL EL",
+    "latitude":32.8828697,
+    "longitude":-96.839592,
+    "testedNum":37,
+    "gradeLevelNum":32,
+    "literacyRate":0.864864865
+  },
+  {
+    "id":57905225,
+    "name":"DANIEL WEBSTER EL",
+    "latitude":32.6967926,
+    "longitude":-96.8615189,
+    "testedNum":108,
+    "gradeLevelNum":50,
+    "literacyRate":0.462962963
+  },
+  {
+    "id":57905226,
+    "name":"MARTIN WEISS EL",
+    "latitude":32.6438293,
+    "longitude":-96.8304291,
+    "testedNum":79,
+    "gradeLevelNum":52,
+    "literacyRate":0.658227848
+  },
+  {
+    "id":57905228,
+    "name":"SUDIE L WILLIAMS ELEMENTARY SCHOOL",
+    "latitude":32.8549576,
+    "longitude":-96.8312378,
+    "testedNum":30,
+    "gradeLevelNum":25,
+    "literacyRate":0.833333333
+  },
+  {
+    "id":57905229,
+    "name":"WINNETKA EL SCHOOL",
+    "latitude":32.7343941,
+    "longitude":-96.8451767,
+    "testedNum":119,
+    "gradeLevelNum":98,
+    "literacyRate":0.823529412
+  },
+  {
+    "id":57905230,
+    "name":"HARRY C WITHERS EL",
+    "latitude":32.903244,
+    "longitude":-96.845901,
+    "testedNum":76,
+    "gradeLevelNum":58,
+    "literacyRate":0.763157895
+  },
+  {
+    "id":57905232,
+    "name":"EDNA ROWE EL",
+    "latitude":32.7854195,
+    "longitude":-96.7067337,
+    "testedNum":74,
+    "gradeLevelNum":54,
+    "literacyRate":0.72972973
+  },
+  {
+    "id":57905233,
+    "name":"NATHAN ADAMS EL",
+    "latitude":32.9215971,
+    "longitude":-96.8294352,
+    "testedNum":72,
+    "gradeLevelNum":62,
+    "literacyRate":0.861111111
+  },
+  {
+    "id":57905234,
+    "name":"HENRY B GONZALEZ EL",
+    "latitude":32.7342354,
+    "longitude":-96.7063279,
+    "testedNum":124,
+    "gradeLevelNum":85,
+    "literacyRate":0.685483871
+  },
+  {
+    "id":57905235,
+    "name":"BIRDIE ALEXANDER EL",
+    "latitude":32.6559448,
+    "longitude":-96.847641,
+    "testedNum":50,
+    "gradeLevelNum":31,
+    "literacyRate":0.62
+  },
+  {
+    "id":57905236,
+    "name":"NANCY J COCHRAN EL",
+    "latitude":32.7354851,
+    "longitude":-96.925209,
+    "testedNum":93,
+    "gradeLevelNum":45,
+    "literacyRate":0.483870968
+  },
+  {
+    "id":57905237,
+    "name":"JOHN W RUNYON EL",
+    "latitude":32.7404404,
+    "longitude":-96.6410446,
+    "testedNum":93,
+    "gradeLevelNum":67,
+    "literacyRate":0.720430108
+  },
+  {
+    "id":57905239,
+    "name":"ARTURO SALAZAR EL",
+    "latitude":32.7328186,
+    "longitude":-96.8680267,
+    "testedNum":110,
+    "gradeLevelNum":80,
+    "literacyRate":0.727272727
+  },
+  {
+    "id":57905240,
+    "name":"FRANK GUZICK EL",
+    "latitude":32.784965,
+    "longitude":-96.69192,
+    "testedNum":91,
+    "gradeLevelNum":56,
+    "literacyRate":0.615384615
+  },
+  {
+    "id":57905244,
+    "name":"SEAGOVILLE NORTH EL",
+    "latitude":32.659138,
+    "longitude":-96.558472,
+    "testedNum":124,
+    "gradeLevelNum":74,
+    "literacyRate":0.596774194
+  },
+  {
+    "id":57905247,
+    "name":"ADELFA BOTELLO CALLEJO EL",
+    "latitude":32.770419,
+    "longitude":-96.6865144,
+    "testedNum":101,
+    "gradeLevelNum":67,
+    "literacyRate":0.663366337
+  },
+  {
+    "id":57905250,
+    "name":"WHITNEY M YOUNG JR EL",
+    "latitude":32.6941414,
+    "longitude":-96.7864075,
+    "testedNum":96,
+    "gradeLevelNum":62,
+    "literacyRate":0.645833333
+  },
+  {
+    "id":57905260,
+    "name":"LORENZO DE ZAVALA EL",
+    "latitude":32.7810173,
+    "longitude":-96.8389969,
+    "testedNum":51,
+    "gradeLevelNum":36,
+    "literacyRate":0.705882353
+  },
+  {
+    "id":57905263,
+    "name":"J P STARKS ELEMENTARY SCHOOL",
+    "latitude":32.7217674,
+    "longitude":-96.7740707,
+    "testedNum":32,
+    "gradeLevelNum":18,
+    "literacyRate":0.5625
+  },
+  {
+    "id":57905264,
+    "name":"RONALD E MCNAIR EL",
+    "latitude":32.6561737,
+    "longitude":-96.8632736,
+    "testedNum":120,
+    "gradeLevelNum":64,
+    "literacyRate":0.533333333
+  },
+  {
+    "id":57905265,
+    "name":"ELADIO R MARTINEZ LEARNING CENTER",
+    "latitude":32.7878078,
+    "longitude":-96.89434,
+    "testedNum":70,
+    "gradeLevelNum":56,
+    "literacyRate":0.8
+  },
+  {
+    "id":57905266,
+    "name":"FREDERICK DOUGLASS EL",
+    "latitude":32.7156067,
+    "longitude":-96.6976852,
+    "testedNum":79,
+    "gradeLevelNum":38,
+    "literacyRate":0.481012658
+  },
+  {
+    "id":57905268,
+    "name":"JOHN F KENNEDY LEARNING CENTER",
+    "latitude":32.8093339,
+    "longitude":-96.7747718,
+    "testedNum":103,
+    "gradeLevelNum":43,
+    "literacyRate":0.417475728
+  },
+  {
+    "id":57905269,
+    "name":"ONESIMO HERNANDEZ EL",
+    "latitude":32.8197708,
+    "longitude":-96.8364182,
+    "testedNum":55,
+    "gradeLevelNum":29,
+    "literacyRate":0.527272727
+  },
+  {
+    "id":57905271,
+    "name":"JULIAN T SALDIVAR ELEMENTARY SCHOOL",
+    "latitude":32.8649559,
+    "longitude":-96.8730011,
+    "testedNum":157,
+    "gradeLevelNum":104,
+    "literacyRate":0.662420382
+  },
+  {
+    "id":57905272,
+    "name":"MARIA MORENO EL",
+    "latitude":32.771972,
+    "longitude":-96.8567462,
+    "testedNum":71,
+    "gradeLevelNum":30,
+    "literacyRate":0.422535211
+  },
+  {
+    "id":57905273,
+    "name":"PLEASANT GROVE ELEMENTARY SCHOOL",
+    "latitude":32.7384644,
+    "longitude":-96.6556625,
+    "testedNum":86,
+    "gradeLevelNum":49,
+    "literacyRate":0.569767442
+  },
+  {
+    "id":57905274,
+    "name":"MARY MCLEOD BETHUNE EL",
+    "latitude":32.7265511,
+    "longitude":-96.9097824,
+    "testedNum":129,
+    "gradeLevelNum":94,
+    "literacyRate":0.728682171
+  },
+  {
+    "id":57905275,
+    "name":"LOUISE WOLFF KAHN EL",
+    "latitude":32.7513046,
+    "longitude":-96.8598404,
+    "testedNum":94,
+    "gradeLevelNum":68,
+    "literacyRate":0.723404255
+  },
+  {
+    "id":57905276,
+    "name":"GILBERT CUELLAR SR EL",
+    "latitude":32.7170792,
+    "longitude":-96.6431046,
+    "testedNum":123,
+    "gradeLevelNum":80,
+    "literacyRate":0.650406504
+  },
+  {
+    "id":57905277,
+    "name":"THOMAS TOLBERT EL",
+    "latitude":32.7082634,
+    "longitude":-96.8717728,
+    "testedNum":62,
+    "gradeLevelNum":39,
+    "literacyRate":0.629032258
+  },
+  {
+    "id":57905278,
+    "name":"LEONIDES GONZALEZ CIGARROA MD EL",
+    "latitude":32.8800278,
+    "longitude":-96.8647766,
+    "testedNum":100,
+    "gradeLevelNum":64,
+    "literacyRate":0.64
+  },
+  {
+    "id":57905279,
+    "name":"JERRY R JUNKINS EL",
+    "latitude":32.973774,
+    "longitude":-96.8569489,
+    "testedNum":90,
+    "gradeLevelNum":71,
+    "literacyRate":0.788888889
+  },
+  {
+    "id":57905280,
+    "name":"ANNE FRANK EL",
+    "latitude":32.9477577,
+    "longitude":-96.8179245,
+    "testedNum":171,
+    "gradeLevelNum":115,
+    "literacyRate":0.67251462
+  },
+  {
+    "id":57905281,
+    "name":"CESAR CHAVEZ LEARNING CENTER",
+    "latitude":32.8037224,
+    "longitude":-96.7805252,
+    "testedNum":102,
+    "gradeLevelNum":57,
+    "literacyRate":0.558823529
+  },
+  {
+    "id":57905283,
+    "name":"ESPERANZA MEDRANO EL",
+    "latitude":32.807976,
+    "longitude":-96.82658,
+    "testedNum":98,
+    "gradeLevelNum":59,
+    "literacyRate":0.602040816
+  },
+  {
+    "id":57905284,
+    "name":"HIGHLAND MEADOWS EL",
+    "latitude":32.87059,
+    "longitude":-96.687859,
+    "testedNum":97,
+    "gradeLevelNum":65,
+    "literacyRate":0.670103093
+  },
+  {
+    "id":57905286,
+    "name":"LEE A MCSHAN JR EL",
+    "latitude":32.8881874,
+    "longitude":-96.7610779,
+    "testedNum":90,
+    "gradeLevelNum":30,
+    "literacyRate":0.333333333
+  },
+  {
+    "id":57905287,
+    "name":"CELESTINO MAURICIO SOTO JR EL",
+    "latitude":32.7359238,
+    "longitude":-96.8951416,
+    "testedNum":115,
+    "gradeLevelNum":70,
+    "literacyRate":0.608695652
+  },
+  {
+    "id":57905289,
+    "name":"FELIX G BOTELLO EL",
+    "latitude":32.7455368,
+    "longitude":-96.8169022,
+    "testedNum":86,
+    "gradeLevelNum":54,
+    "literacyRate":0.627906977
+  },
+  {
+    "id":57905301,
+    "name":"WILMER-HUTCHINS EL",
+    "latitude":32.6586568,
+    "longitude":-96.7295142,
+    "testedNum":125,
+    "gradeLevelNum":63,
+    "literacyRate":0.504
+  },
+  {
+    "id":57905303,
+    "name":"THELMA ELIZABETH PAGE RICHARDSON EL",
+    "latitude":32.750846,
+    "longitude":-96.695085,
+    "testedNum":70,
+    "gradeLevelNum":34,
+    "literacyRate":0.485714286
+  },
+  {
+    "id":57905304,
+    "name":"GEORGE HERBERT WALKER BUSH EL",
+    "latitude":32.9399856,
+    "longitude":-96.8486928,
+    "testedNum":103,
+    "gradeLevelNum":73,
+    "literacyRate":0.708737864
+  },
+  {
+    "id":57905305,
+    "name":"EBBY HALLIDAY EL",
+    "latitude":32.6760254,
+    "longitude":-96.6455329,
+    "testedNum":89,
+    "gradeLevelNum":53,
+    "literacyRate":0.595505618
+  },
+  {
+    "id":57906102,
+    "name":"RUBY YOUNG EL",
+    "latitude":32.600338,
+    "longitude":-96.8673325,
+    "testedNum":105,
+    "gradeLevelNum":83,
+    "literacyRate":0.79047619
+  },
+  {
+    "id":57906103,
+    "name":"NORTHSIDE EL",
+    "latitude":32.6109428,
+    "longitude":-96.845726,
+    "testedNum":64,
+    "gradeLevelNum":35,
+    "literacyRate":0.546875
+  },
+  {
+    "id":57906104,
+    "name":"AMBER TERRACE EL",
+    "latitude":32.5769005,
+    "longitude":-96.8532639,
+    "testedNum":116,
+    "gradeLevelNum":71,
+    "literacyRate":0.612068966
+  },
+  {
+    "id":57906106,
+    "name":"THE MEADOWS EL",
+    "latitude":32.607895,
+    "longitude":-96.830132,
+    "testedNum":87,
+    "gradeLevelNum":50,
+    "literacyRate":0.574712644
+  },
+  {
+    "id":57906107,
+    "name":"COCKRELL HILL EL",
+    "latitude":32.584184,
+    "longitude":-96.89124,
+    "testedNum":85,
+    "gradeLevelNum":73,
+    "literacyRate":0.858823529
+  },
+  {
+    "id":57906108,
+    "name":"FRANK D MOATES EL",
+    "latitude":32.5639038,
+    "longitude":-96.8621597,
+    "testedNum":111,
+    "gradeLevelNum":75,
+    "literacyRate":0.675675676
+  },
+  {
+    "id":57906109,
+    "name":"WOODRIDGE EL",
+    "latitude":32.5849152,
+    "longitude":-96.8337326,
+    "testedNum":107,
+    "gradeLevelNum":61,
+    "literacyRate":0.570093458
+  },
+  {
+    "id":57907101,
+    "name":"CENTRAL EL",
+    "latitude":32.6509058,
+    "longitude":-96.9040469,
+    "testedNum":115,
+    "gradeLevelNum":66,
+    "literacyRate":0.573913043
+  },
+  {
+    "id":57907102,
+    "name":"FAIRMEADOWS EL",
+    "latitude":32.6670799,
+    "longitude":-96.9044189,
+    "testedNum":112,
+    "gradeLevelNum":75,
+    "literacyRate":0.669642857
+  },
+  {
+    "id":57907103,
+    "name":"MERRIFIELD ELEMENTARY",
+    "latitude":32.6450439,
+    "longitude":-96.9082198,
+    "testedNum":103,
+    "gradeLevelNum":55,
+    "literacyRate":0.533980583
+  },
+  {
+    "id":57907104,
+    "name":"WILLIAM LEE HASTINGS EL",
+    "latitude":32.6510544,
+    "longitude":-96.9218826,
+    "testedNum":106,
+    "gradeLevelNum":60,
+    "literacyRate":0.566037736
+  },
+  {
+    "id":57907105,
+    "name":"S GUS ALEXANDER JR ELEMENTARY",
+    "latitude":32.6241531,
+    "longitude":-96.9201202,
+    "testedNum":95,
+    "gradeLevelNum":61,
+    "literacyRate":0.642105263
+  },
+  {
+    "id":57907106,
+    "name":"CLINT Q SMITH EL",
+    "latitude":32.6411552,
+    "longitude":-96.9321442,
+    "testedNum":93,
+    "gradeLevelNum":60,
+    "literacyRate":0.64516129
+  },
+  {
+    "id":57907107,
+    "name":"CHARLES ACTON EL",
+    "latitude":32.6408119,
+    "longitude":-96.9469147,
+    "testedNum":90,
+    "gradeLevelNum":67,
+    "literacyRate":0.744444444
+  },
+  {
+    "id":57907111,
+    "name":"CJ & ANNE HYMAN EL",
+    "latitude":32.6533203,
+    "longitude":-96.9745331,
+    "testedNum":90,
+    "gradeLevelNum":71,
+    "literacyRate":0.788888889
+  },
+  {
+    "id":57907112,
+    "name":"JAMES R BILHARTZ JR EL",
+    "latitude":32.6655655,
+    "longitude":-96.9290695,
+    "testedNum":127,
+    "gradeLevelNum":66,
+    "literacyRate":0.519685039
+  },
+  {
+    "id":57909101,
+    "name":"BEAVER TECHNOLOGY CENTER",
+    "latitude":32.922493,
+    "longitude":-96.6780548,
+    "testedNum":103,
+    "gradeLevelNum":95,
+    "literacyRate":0.922330097
+  },
+  {
+    "id":57909102,
+    "name":"BULLOCK EL",
+    "latitude":32.9142876,
+    "longitude":-96.6908188,
+    "testedNum":80,
+    "gradeLevelNum":63,
+    "literacyRate":0.7875
+  },
+  {
+    "id":57909103,
+    "name":"CALDWELL EL",
+    "latitude":32.875916,
+    "longitude":-96.647095,
+    "testedNum":80,
+    "gradeLevelNum":64,
+    "literacyRate":0.8
+  },
+  {
+    "id":57909105,
+    "name":"CENTERVILLE EL",
+    "latitude":32.8786918,
+    "longitude":-96.6238546,
+    "testedNum":55,
+    "gradeLevelNum":33,
+    "literacyRate":0.6
+  },
+  {
+    "id":57909107,
+    "name":"COOPER EL",
+    "latitude":32.934319,
+    "longitude":-96.645851,
+    "testedNum":107,
+    "gradeLevelNum":83,
+    "literacyRate":0.775700935
+  },
+  {
+    "id":57909108,
+    "name":"DAUGHERTY EL",
+    "latitude":32.8935966,
+    "longitude":-96.637207,
+    "testedNum":107,
+    "gradeLevelNum":73,
+    "literacyRate":0.682242991
+  },
+  {
+    "id":57909109,
+    "name":"FREEMAN EL",
+    "latitude":32.9171295,
+    "longitude":-96.6455231,
+    "testedNum":56,
+    "gradeLevelNum":31,
+    "literacyRate":0.553571429
+  },
+  {
+    "id":57909110,
+    "name":"HANDLEY EL",
+    "latitude":32.8677635,
+    "longitude":-96.6100922,
+    "testedNum":99,
+    "gradeLevelNum":62,
+    "literacyRate":0.626262626
+  },
+  {
+    "id":57909111,
+    "name":"KIMBERLIN ACAD FOR EXCEL",
+    "latitude":32.8988875,
+    "longitude":-96.62628,
+    "testedNum":68,
+    "gradeLevelNum":66,
+    "literacyRate":0.970588235
+  },
+  {
+    "id":57909112,
+    "name":"PARK CREST EL",
+    "latitude":32.8917732,
+    "longitude":-96.6613464,
+    "testedNum":71,
+    "gradeLevelNum":44,
+    "literacyRate":0.61971831
+  },
+  {
+    "id":57909113,
+    "name":"SOUTHGATE EL",
+    "latitude":32.86874,
+    "longitude":-96.644524,
+    "testedNum":60,
+    "gradeLevelNum":45,
+    "literacyRate":0.75
+  },
+  {
+    "id":57909115,
+    "name":"WATSON TECHNOLOGY CENTER",
+    "latitude":32.8865395,
+    "longitude":-96.623085,
+    "testedNum":107,
+    "gradeLevelNum":91,
+    "literacyRate":0.85046729
+  },
+  {
+    "id":57909116,
+    "name":"WEAVER EL",
+    "latitude":32.928291,
+    "longitude":-96.620132,
+    "testedNum":53,
+    "gradeLevelNum":34,
+    "literacyRate":0.641509434
+  },
+  {
+    "id":57909117,
+    "name":"WILLIAMS EL",
+    "latitude":32.8969383,
+    "longitude":-96.6564255,
+    "testedNum":49,
+    "gradeLevelNum":30,
+    "literacyRate":0.612244898
+  },
+  {
+    "id":57909119,
+    "name":"BRADFIELD EL",
+    "latitude":32.9222794,
+    "longitude":-96.6897736,
+    "testedNum":87,
+    "gradeLevelNum":60,
+    "literacyRate":0.689655172
+  },
+  {
+    "id":57909120,
+    "name":"SHOREHAVEN EL",
+    "latitude":32.9181862,
+    "longitude":-96.6226044,
+    "testedNum":62,
+    "gradeLevelNum":49,
+    "literacyRate":0.790322581
+  },
+  {
+    "id":57909121,
+    "name":"MONTCLAIR EL",
+    "latitude":32.8539839,
+    "longitude":-96.638924,
+    "testedNum":76,
+    "gradeLevelNum":53,
+    "literacyRate":0.697368421
+  },
+  {
+    "id":57909122,
+    "name":"WALNUT GLEN ACAD FOR EXCEL",
+    "latitude":32.9147034,
+    "longitude":-96.6759949,
+    "testedNum":88,
+    "gradeLevelNum":84,
+    "literacyRate":0.954545455
+  },
+  {
+    "id":57909123,
+    "name":"GOLDEN MEADOWS EL",
+    "latitude":32.9237137,
+    "longitude":-96.6544342,
+    "testedNum":71,
+    "gradeLevelNum":52,
+    "literacyRate":0.732394366
+  },
+  {
+    "id":57909124,
+    "name":"HEATHER GLEN EL",
+    "latitude":32.8576861,
+    "longitude":-96.6321339,
+    "testedNum":98,
+    "gradeLevelNum":63,
+    "literacyRate":0.642857143
+  },
+  {
+    "id":57909125,
+    "name":"HILLSIDE ACAD FOR EXCEL",
+    "latitude":32.8925323,
+    "longitude":-96.621376,
+    "testedNum":81,
+    "gradeLevelNum":79,
+    "literacyRate":0.975308642
+  },
+  {
+    "id":57909126,
+    "name":"DAVIS EL",
+    "latitude":32.928026,
+    "longitude":-96.675994,
+    "testedNum":118,
+    "gradeLevelNum":79,
+    "literacyRate":0.669491525
+  },
+  {
+    "id":57909127,
+    "name":"ROACH EL",
+    "latitude":32.8672829,
+    "longitude":-96.6552963,
+    "testedNum":77,
+    "gradeLevelNum":65,
+    "literacyRate":0.844155844
+  },
+  {
+    "id":57909128,
+    "name":"ETHRIDGE EL",
+    "latitude":32.9349937,
+    "longitude":-96.6580429,
+    "testedNum":121,
+    "gradeLevelNum":81,
+    "literacyRate":0.669421488
+  },
+  {
+    "id":57909129,
+    "name":"CLASSICAL CENTER AT VIAL EL",
+    "latitude":32.8498421,
+    "longitude":-96.6062012,
+    "testedNum":107,
+    "gradeLevelNum":92,
+    "literacyRate":0.859813084
+  },
+  {
+    "id":57909132,
+    "name":"CLUB HILL EL",
+    "latitude":32.878891,
+    "longitude":-96.611565,
+    "testedNum":78,
+    "gradeLevelNum":62,
+    "literacyRate":0.794871795
+  },
+  {
+    "id":57909133,
+    "name":"HICKMAN EL",
+    "latitude":32.9569244,
+    "longitude":-96.6770554,
+    "testedNum":92,
+    "gradeLevelNum":68,
+    "literacyRate":0.739130435
+  },
+  {
+    "id":57909134,
+    "name":"NORTHLAKE EL",
+    "latitude":32.92617,
+    "longitude":-96.607765,
+    "testedNum":86,
+    "gradeLevelNum":65,
+    "literacyRate":0.755813953
+  },
+  {
+    "id":57909136,
+    "name":"TOLER EL",
+    "latitude":32.8383484,
+    "longitude":-96.5777969,
+    "testedNum":97,
+    "gradeLevelNum":71,
+    "literacyRate":0.731958763
+  },
+  {
+    "id":57909137,
+    "name":"ROWLETT EL",
+    "latitude":32.8921547,
+    "longitude":-96.5753784,
+    "testedNum":101,
+    "gradeLevelNum":83,
+    "literacyRate":0.821782178
+  },
+  {
+    "id":57909138,
+    "name":"SPRING CREEK EL",
+    "latitude":32.9544678,
+    "longitude":-96.6505966,
+    "testedNum":96,
+    "gradeLevelNum":86,
+    "literacyRate":0.895833333
+  },
+  {
+    "id":57909139,
+    "name":"LUNA EL",
+    "latitude":32.9775963,
+    "longitude":-96.6181564,
+    "testedNum":67,
+    "gradeLevelNum":51,
+    "literacyRate":0.76119403
+  },
+  {
+    "id":57909140,
+    "name":"BACK EL",
+    "latitude":32.9256592,
+    "longitude":-96.572998,
+    "testedNum":78,
+    "gradeLevelNum":57,
+    "literacyRate":0.730769231
+  },
+  {
+    "id":57909141,
+    "name":"SHUGART EL",
+    "latitude":32.8594355,
+    "longitude":-96.5940969,
+    "testedNum":84,
+    "gradeLevelNum":61,
+    "literacyRate":0.726190476
+  },
+  {
+    "id":57909142,
+    "name":"HERFURTH EL",
+    "latitude":32.8905602,
+    "longitude":-96.5287628,
+    "testedNum":65,
+    "gradeLevelNum":40,
+    "literacyRate":0.615384615
+  },
+  {
+    "id":57909143,
+    "name":"ABBETT EL",
+    "latitude":32.9691772,
+    "longitude":-96.638031,
+    "testedNum":108,
+    "gradeLevelNum":86,
+    "literacyRate":0.796296296
+  },
+  {
+    "id":57909144,
+    "name":"KEELEY EL",
+    "latitude":32.9195251,
+    "longitude":-96.5556078,
+    "testedNum":102,
+    "gradeLevelNum":97,
+    "literacyRate":0.950980392
+  },
+  {
+    "id":57909145,
+    "name":"ROBERT B SEWELL EL",
+    "latitude":32.9571762,
+    "longitude":-96.581337,
+    "testedNum":80,
+    "gradeLevelNum":67,
+    "literacyRate":0.8375
+  },
+  {
+    "id":57909146,
+    "name":"KATHERINE STEPHENS EL",
+    "latitude":32.8959885,
+    "longitude":-96.5598831,
+    "testedNum":96,
+    "gradeLevelNum":67,
+    "literacyRate":0.697916667
+  },
+  {
+    "id":57909147,
+    "name":"VERNAL LISTER EL",
+    "latitude":32.94363,
+    "longitude":-96.613686,
+    "testedNum":75,
+    "gradeLevelNum":60,
+    "literacyRate":0.8
+  },
+  {
+    "id":57909148,
+    "name":"NORMA DORSEY EL",
+    "latitude":32.914967,
+    "longitude":-96.583504,
+    "testedNum":102,
+    "gradeLevelNum":88,
+    "literacyRate":0.862745098
+  },
+  {
+    "id":57909154,
+    "name":"STEADHAM EL",
+    "latitude":32.919593,
+    "longitude":-96.531674,
+    "testedNum":99,
+    "gradeLevelNum":77,
+    "literacyRate":0.777777778
+  },
+  {
+    "id":57909155,
+    "name":"JOHN W ARMSTRONG EL",
+    "latitude":32.9665108,
+    "longitude":-96.5996857,
+    "testedNum":116,
+    "gradeLevelNum":105,
+    "literacyRate":0.905172414
+  },
+  {
+    "id":57909156,
+    "name":"NITA PEARSON EL",
+    "latitude":32.9071467,
+    "longitude":-96.5255141,
+    "testedNum":101,
+    "gradeLevelNum":88,
+    "literacyRate":0.871287129
+  },
+  {
+    "id":57909157,
+    "name":"GLEN COUCH EL",
+    "latitude":32.8553606,
+    "longitude":-96.5667886,
+    "testedNum":110,
+    "gradeLevelNum":87,
+    "literacyRate":0.790909091
+  },
+  {
+    "id":57909158,
+    "name":"LIBERTY GROVE EL",
+    "latitude":32.9469815,
+    "longitude":-96.5253901,
+    "testedNum":94,
+    "gradeLevelNum":73,
+    "literacyRate":0.776595745
+  },
+  {
+    "id":57909159,
+    "name":"GEORGE WASHINGTON CARVER EL",
+    "latitude":32.8711729,
+    "longitude":-96.598086,
+    "testedNum":99,
+    "gradeLevelNum":70,
+    "literacyRate":0.707070707
+  },
+  {
+    "id":57910101,
+    "name":"STEPHEN F AUSTIN EL",
+    "latitude":32.7505608,
+    "longitude":-97.0130615,
+    "testedNum":77,
+    "gradeLevelNum":56,
+    "literacyRate":0.727272727
+  },
+  {
+    "id":57910102,
+    "name":"JAMES BOWIE EL",
+    "latitude":32.7371864,
+    "longitude":-97.0067978,
+    "testedNum":63,
+    "gradeLevelNum":47,
+    "literacyRate":0.746031746
+  },
+  {
+    "id":57910104,
+    "name":"DAVID DANIELS EL ACADEMY OF SCIENCE & MATH",
+    "latitude":32.7330627,
+    "longitude":-97.0300598,
+    "testedNum":103,
+    "gradeLevelNum":57,
+    "literacyRate":0.553398058
+  },
+  {
+    "id":57910106,
+    "name":"FLORENCE HILL EL",
+    "latitude":32.672896,
+    "longitude":-97.015212,
+    "testedNum":83,
+    "gradeLevelNum":72,
+    "literacyRate":0.86746988
+  },
+  {
+    "id":57910109,
+    "name":"ELLEN OCHOA STEM ACADEMY AT BEN MILIAM EL",
+    "latitude":32.7173386,
+    "longitude":-97.0130844,
+    "testedNum":126,
+    "gradeLevelNum":73,
+    "literacyRate":0.579365079
+  },
+  {
+    "id":57910113,
+    "name":"DWIGHT D EISENHOWER EL",
+    "latitude":32.7694168,
+    "longitude":-97.0222015,
+    "testedNum":94,
+    "gradeLevelNum":72,
+    "literacyRate":0.765957447
+  },
+  {
+    "id":57910118,
+    "name":"SAM RAYBURN EL",
+    "latitude":32.7023582,
+    "longitude":-96.9894562,
+    "testedNum":106,
+    "gradeLevelNum":68,
+    "literacyRate":0.641509434
+  },
+  {
+    "id":57910119,
+    "name":"LORENZO DE ZAVALA ENVIRONMENTAL SCIENCE ACADEMY",
+    "latitude":32.6890019,
+    "longitude":-97.0078987,
+    "testedNum":118,
+    "gradeLevelNum":80,
+    "literacyRate":0.677966102
+  },
+  {
+    "id":57910120,
+    "name":"SUZANNA DICKINSON EL",
+    "latitude":32.6548882,
+    "longitude":-97.0305862,
+    "testedNum":70,
+    "gradeLevelNum":50,
+    "literacyRate":0.714285714
+  },
+  {
+    "id":57910121,
+    "name":"GARNER FINE ARTS ACADEMY",
+    "latitude":32.6582598,
+    "longitude":-97.0111126,
+    "testedNum":92,
+    "gradeLevelNum":83,
+    "literacyRate":0.902173913
+  },
+  {
+    "id":57910122,
+    "name":"BARBARA BUSH EL",
+    "latitude":32.7029305,
+    "longitude":-96.996933,
+    "testedNum":92,
+    "gradeLevelNum":66,
+    "literacyRate":0.717391304
+  },
+  {
+    "id":57910123,
+    "name":"COLIN POWELL EL",
+    "latitude":32.6511879,
+    "longitude":-97.0059662,
+    "testedNum":75,
+    "gradeLevelNum":72,
+    "literacyRate":0.96
+  },
+  {
+    "id":57910124,
+    "name":"HECTOR P GARCIA EL",
+    "latitude":32.756775,
+    "longitude":-96.968597,
+    "testedNum":82,
+    "gradeLevelNum":54,
+    "literacyRate":0.658536585
+  },
+  {
+    "id":57910125,
+    "name":"SALLYE R MOORE EL",
+    "latitude":32.6933823,
+    "longitude":-97.0298843,
+    "testedNum":84,
+    "gradeLevelNum":50,
+    "literacyRate":0.595238095
+  },
+  {
+    "id":57910126,
+    "name":"ERVIN C WHITT EL",
+    "latitude":32.692979,
+    "longitude":-96.992435,
+    "testedNum":75,
+    "gradeLevelNum":56,
+    "literacyRate":0.746666667
+  },
+  {
+    "id":57910127,
+    "name":"WILLIAM B TRAVIS EL",
+    "latitude":32.7517662,
+    "longitude":-96.9873352,
+    "testedNum":90,
+    "gradeLevelNum":46,
+    "literacyRate":0.511111111
+  },
+  {
+    "id":57910128,
+    "name":"JUAN N SEGUIN EL",
+    "latitude":32.7255478,
+    "longitude":-96.9997253,
+    "testedNum":79,
+    "gradeLevelNum":54,
+    "literacyRate":0.683544304
+  },
+  {
+    "id":57910129,
+    "name":"THURGOOD MARSHALL LEADERSHIP ACADEMY",
+    "latitude":32.6988812,
+    "longitude":-96.9892245,
+    "testedNum":77,
+    "gradeLevelNum":64,
+    "literacyRate":0.831168831
+  },
+  {
+    "id":57910130,
+    "name":"MIKE MOSELEY EL",
+    "latitude":32.645048,
+    "longitude":-97.029192,
+    "testedNum":80,
+    "gradeLevelNum":56,
+    "literacyRate":0.7
+  },
+  {
+    "id":57910131,
+    "name":"HOBBS WILLIAMS EL",
+    "latitude":32.7243385,
+    "longitude":-96.9869461,
+    "testedNum":119,
+    "gradeLevelNum":84,
+    "literacyRate":0.705882353
+  },
+  {
+    "id":57910132,
+    "name":"ROBERT E LEE EL",
+    "latitude":32.7405167,
+    "longitude":-96.9989166,
+    "testedNum":115,
+    "gradeLevelNum":78,
+    "literacyRate":0.67826087
+  },
+  {
+    "id":57911101,
+    "name":"ARMSTRONG ELEMENTARY",
+    "latitude":32.8339539,
+    "longitude":-96.7916107,
+    "testedNum":128,
+    "gradeLevelNum":126,
+    "literacyRate":0.984375
+  },
+  {
+    "id":57911102,
+    "name":"BRADFIELD ELEMENTARY",
+    "latitude":32.8362007,
+    "longitude":-96.8086853,
+    "testedNum":131,
+    "gradeLevelNum":131,
+    "literacyRate":1
+  },
+  {
+    "id":57911103,
+    "name":"HYER EL",
+    "latitude":32.8596268,
+    "longitude":-96.8006287,
+    "testedNum":153,
+    "gradeLevelNum":149,
+    "literacyRate":0.973856209
+  },
+  {
+    "id":57911104,
+    "name":"UNIVERSITY PARK ELEMENTARY",
+    "latitude":32.8516273,
+    "longitude":-96.7913666,
+    "testedNum":143,
+    "gradeLevelNum":143,
+    "literacyRate":1
+  },
+  {
+    "id":57912101,
+    "name":"BARTON EL",
+    "latitude":32.821839,
+    "longitude":-96.9855914,
+    "testedNum":128,
+    "gradeLevelNum":75,
+    "literacyRate":0.5859375
+  },
+  {
+    "id":57912102,
+    "name":"BROWN EL",
+    "latitude":32.8063698,
+    "longitude":-96.9798584,
+    "testedNum":134,
+    "gradeLevelNum":72,
+    "literacyRate":0.537313433
+  },
+  {
+    "id":57912103,
+    "name":"BRITAIN EL",
+    "latitude":32.8049317,
+    "longitude":-96.9399436,
+    "testedNum":95,
+    "gradeLevelNum":60,
+    "literacyRate":0.631578947
+  },
+  {
+    "id":57912105,
+    "name":"GOOD EL",
+    "latitude":32.8219719,
+    "longitude":-96.9309311,
+    "testedNum":130,
+    "gradeLevelNum":84,
+    "literacyRate":0.646153846
+  },
+  {
+    "id":57912106,
+    "name":"HALEY J EL",
+    "latitude":32.8114281,
+    "longitude":-96.9589767,
+    "testedNum":134,
+    "gradeLevelNum":91,
+    "literacyRate":0.679104478
+  },
+  {
+    "id":57912107,
+    "name":"HALEY T EL",
+    "latitude":32.8547517,
+    "longitude":-97.0013615,
+    "testedNum":108,
+    "gradeLevelNum":76,
+    "literacyRate":0.703703704
+  },
+  {
+    "id":57912108,
+    "name":"JOHNSTON EL",
+    "latitude":32.8430977,
+    "longitude":-96.9842072,
+    "testedNum":117,
+    "gradeLevelNum":64,
+    "literacyRate":0.547008547
+  },
+  {
+    "id":57912109,
+    "name":"KEYES EL",
+    "latitude":32.8301926,
+    "longitude":-96.9458389,
+    "testedNum":120,
+    "gradeLevelNum":61,
+    "literacyRate":0.508333333
+  },
+  {
+    "id":57912111,
+    "name":"LEE EL",
+    "latitude":32.8530579,
+    "longitude":-96.9663773,
+    "testedNum":117,
+    "gradeLevelNum":89,
+    "literacyRate":0.760683761
+  },
+  {
+    "id":57912112,
+    "name":"LIVELY EL",
+    "latitude":32.8255959,
+    "longitude":-96.9623489,
+    "testedNum":145,
+    "gradeLevelNum":93,
+    "literacyRate":0.64137931
+  },
+  {
+    "id":57912113,
+    "name":"FARINE EL",
+    "latitude":32.8470573,
+    "longitude":-96.9528809,
+    "testedNum":130,
+    "gradeLevelNum":80,
+    "literacyRate":0.615384615
+  },
+  {
+    "id":57912114,
+    "name":"SCHULZE EL",
+    "latitude":32.8008621,
+    "longitude":-96.9256394,
+    "testedNum":126,
+    "gradeLevelNum":87,
+    "literacyRate":0.69047619
+  },
+  {
+    "id":57912116,
+    "name":"BRANDENBURG EL",
+    "latitude":32.845455,
+    "longitude":-96.965347,
+    "testedNum":130,
+    "gradeLevelNum":89,
+    "literacyRate":0.684615385
+  },
+  {
+    "id":57912118,
+    "name":"ELLIOTT EL",
+    "latitude":32.7902145,
+    "longitude":-96.9755859,
+    "testedNum":111,
+    "gradeLevelNum":70,
+    "literacyRate":0.630630631
+  },
+  {
+    "id":57912119,
+    "name":"HANES EL",
+    "latitude":32.84272,
+    "longitude":-97.0028,
+    "testedNum":143,
+    "gradeLevelNum":93,
+    "literacyRate":0.65034965
+  },
+  {
+    "id":57912120,
+    "name":"TOWNLEY EL",
+    "latitude":32.7975087,
+    "longitude":-96.9581618,
+    "testedNum":114,
+    "gradeLevelNum":97,
+    "literacyRate":0.850877193
+  },
+  {
+    "id":57912121,
+    "name":"DAVIS EL",
+    "latitude":32.8183136,
+    "longitude":-96.999794,
+    "testedNum":139,
+    "gradeLevelNum":79,
+    "literacyRate":0.568345324
+  },
+  {
+    "id":57912122,
+    "name":"GILBERT F M EL",
+    "latitude":32.8175951,
+    "longitude":-96.9268832,
+    "testedNum":118,
+    "gradeLevelNum":82,
+    "literacyRate":0.694915254
+  },
+  {
+    "id":57912123,
+    "name":"JACKIE MAE TOWNSELL EL",
+    "latitude":32.8570061,
+    "longitude":-96.9869003,
+    "testedNum":151,
+    "gradeLevelNum":97,
+    "literacyRate":0.642384106
+  },
+  {
+    "id":57912124,
+    "name":"JOHN W AND MARGIE STIPES EL",
+    "latitude":32.7984314,
+    "longitude":-96.9901428,
+    "testedNum":128,
+    "gradeLevelNum":102,
+    "literacyRate":0.796875
+  },
+  {
+    "id":57913101,
+    "name":"PLEASANT RUN EL",
+    "latitude":32.6062737,
+    "longitude":-96.7634659,
+    "testedNum":47,
+    "gradeLevelNum":30,
+    "literacyRate":0.638297872
+  },
+  {
+    "id":57913102,
+    "name":"HOUSTON EL",
+    "latitude":32.6244659,
+    "longitude":-96.8043823,
+    "testedNum":103,
+    "gradeLevelNum":60,
+    "literacyRate":0.582524272
+  },
+  {
+    "id":57913103,
+    "name":"WEST MAIN EL",
+    "latitude":32.593224,
+    "longitude":-96.763107,
+    "testedNum":45,
+    "gradeLevelNum":23,
+    "literacyRate":0.511111111
+  },
+  {
+    "id":57913106,
+    "name":"ROSA PARKS/MILLBROOK EL",
+    "latitude":32.5970268,
+    "longitude":-96.7976074,
+    "testedNum":76,
+    "gradeLevelNum":50,
+    "literacyRate":0.657894737
+  },
+  {
+    "id":57913107,
+    "name":"ROLLING HILLS EL",
+    "latitude":32.5968132,
+    "longitude":-96.8136292,
+    "testedNum":53,
+    "gradeLevelNum":24,
+    "literacyRate":0.452830189
+  },
+  {
+    "id":57913109,
+    "name":"BELT LINE EL",
+    "latitude":32.593277,
+    "longitude":-96.7859421,
+    "testedNum":90,
+    "gradeLevelNum":47,
+    "literacyRate":0.522222222
+  },
+  {
+    "id":57913110,
+    "name":"LANCASTER EL",
+    "latitude":32.5892181,
+    "longitude":-96.7784958,
+    "testedNum":66,
+    "gradeLevelNum":52,
+    "literacyRate":0.787878788
+  },
+  {
+    "id":57914101,
+    "name":"BLACK EL",
+    "latitude":32.759178,
+    "longitude":-96.593658,
+    "testedNum":83,
+    "gradeLevelNum":57,
+    "literacyRate":0.686746988
+  },
+  {
+    "id":57914102,
+    "name":"FLORENCE EL",
+    "latitude":32.8303657,
+    "longitude":-96.63571,
+    "testedNum":71,
+    "gradeLevelNum":48,
+    "literacyRate":0.676056338
+  },
+  {
+    "id":57914103,
+    "name":"GALLOWAY EL",
+    "latitude":32.7701,
+    "longitude":-96.636066,
+    "testedNum":103,
+    "gradeLevelNum":78,
+    "literacyRate":0.757281553
+  },
+  {
+    "id":57914104,
+    "name":"HANBY EL",
+    "latitude":32.7737135,
+    "longitude":-96.610911,
+    "testedNum":145,
+    "gradeLevelNum":111,
+    "literacyRate":0.765517241
+  },
+  {
+    "id":57914105,
+    "name":"HODGES EL",
+    "latitude":32.7144547,
+    "longitude":-96.5990677,
+    "testedNum":111,
+    "gradeLevelNum":71,
+    "literacyRate":0.63963964
+  },
+  {
+    "id":57914106,
+    "name":"MCWHORTER EL",
+    "latitude":32.7459145,
+    "longitude":-96.6209335,
+    "testedNum":129,
+    "gradeLevelNum":75,
+    "literacyRate":0.581395349
+  },
+  {
+    "id":57914107,
+    "name":"MOTLEY EL",
+    "latitude":32.819009,
+    "longitude":-96.654197,
+    "testedNum":50,
+    "gradeLevelNum":35,
+    "literacyRate":0.7
+  },
+  {
+    "id":57914108,
+    "name":"RANGE EL",
+    "latitude":32.8002319,
+    "longitude":-96.6571503,
+    "testedNum":65,
+    "gradeLevelNum":47,
+    "literacyRate":0.723076923
+  },
+  {
+    "id":57914109,
+    "name":"RUGEL EL",
+    "latitude":32.7849121,
+    "longitude":-96.6383591,
+    "testedNum":66,
+    "gradeLevelNum":48,
+    "literacyRate":0.727272727
+  },
+  {
+    "id":57914110,
+    "name":"RUTHERFORD EL",
+    "latitude":32.7517918,
+    "longitude":-96.5766645,
+    "testedNum":90,
+    "gradeLevelNum":56,
+    "literacyRate":0.622222222
+  },
+  {
+    "id":57914111,
+    "name":"SHANDS EL",
+    "latitude":32.8347773,
+    "longitude":-96.6409738,
+    "testedNum":128,
+    "gradeLevelNum":97,
+    "literacyRate":0.7578125
+  },
+  {
+    "id":57914112,
+    "name":"TISINGER EL",
+    "latitude":32.785782,
+    "longitude":-96.608467,
+    "testedNum":139,
+    "gradeLevelNum":84,
+    "literacyRate":0.604316547
+  },
+  {
+    "id":57914113,
+    "name":"TOSCH EL",
+    "latitude":32.799667,
+    "longitude":-96.637171,
+    "testedNum":105,
+    "gradeLevelNum":73,
+    "literacyRate":0.695238095
+  },
+  {
+    "id":57914114,
+    "name":"SEABOURN EL",
+    "latitude":32.7598082,
+    "longitude":-96.6323445,
+    "testedNum":69,
+    "gradeLevelNum":44,
+    "literacyRate":0.637681159
+  },
+  {
+    "id":57914115,
+    "name":"LAWRENCE EL",
+    "latitude":32.8168903,
+    "longitude":-96.6472395,
+    "testedNum":42,
+    "gradeLevelNum":32,
+    "literacyRate":0.761904762
+  },
+  {
+    "id":57914116,
+    "name":"FLOYD EL",
+    "latitude":32.7280696,
+    "longitude":-96.6226839,
+    "testedNum":121,
+    "gradeLevelNum":87,
+    "literacyRate":0.719008264
+  },
+  {
+    "id":57914117,
+    "name":"PORTER EL",
+    "latitude":32.8278275,
+    "longitude":-96.6043243,
+    "testedNum":60,
+    "gradeLevelNum":53,
+    "literacyRate":0.883333333
+  },
+  {
+    "id":57914118,
+    "name":"MCKENZIE EL",
+    "latitude":32.809207,
+    "longitude":-96.644702,
+    "testedNum":84,
+    "gradeLevelNum":60,
+    "literacyRate":0.714285714
+  },
+  {
+    "id":57914119,
+    "name":"BEASLEY EL",
+    "latitude":32.818008,
+    "longitude":-96.609772,
+    "testedNum":62,
+    "gradeLevelNum":52,
+    "literacyRate":0.838709677
+  },
+  {
+    "id":57914120,
+    "name":"PRICE EL",
+    "latitude":32.8477707,
+    "longitude":-96.6240997,
+    "testedNum":68,
+    "gradeLevelNum":42,
+    "literacyRate":0.617647059
+  },
+  {
+    "id":57914121,
+    "name":"SHAW EL",
+    "latitude":32.7728183,
+    "longitude":-96.5800528,
+    "testedNum":108,
+    "gradeLevelNum":67,
+    "literacyRate":0.62037037
+  },
+  {
+    "id":57914122,
+    "name":"KIMBALL EL",
+    "latitude":32.8173752,
+    "longitude":-96.6212616,
+    "testedNum":34,
+    "gradeLevelNum":26,
+    "literacyRate":0.764705882
+  },
+  {
+    "id":57914123,
+    "name":"PIRRUNG EL",
+    "latitude":32.7501869,
+    "longitude":-96.5527878,
+    "testedNum":78,
+    "gradeLevelNum":56,
+    "literacyRate":0.717948718
+  },
+  {
+    "id":57914124,
+    "name":"CANNADAY EL",
+    "latitude":32.8030119,
+    "longitude":-96.6173805,
+    "testedNum":55,
+    "gradeLevelNum":42,
+    "literacyRate":0.763636364
+  },
+  {
+    "id":57914125,
+    "name":"AUSTIN EL",
+    "latitude":32.8055218,
+    "longitude":-96.6056679,
+    "testedNum":66,
+    "gradeLevelNum":53,
+    "literacyRate":0.803030303
+  },
+  {
+    "id":57914126,
+    "name":"MOSS EL",
+    "latitude":32.7558949,
+    "longitude":-96.6113408,
+    "testedNum":75,
+    "gradeLevelNum":61,
+    "literacyRate":0.813333333
+  },
+  {
+    "id":57914127,
+    "name":"THOMPSON EL",
+    "latitude":32.7378845,
+    "longitude":-96.5450363,
+    "testedNum":87,
+    "gradeLevelNum":56,
+    "literacyRate":0.643678161
+  },
+  {
+    "id":57914128,
+    "name":"GRAY EL",
+    "latitude":32.721112,
+    "longitude":-96.6049732,
+    "testedNum":128,
+    "gradeLevelNum":87,
+    "literacyRate":0.6796875
+  },
+  {
+    "id":57914129,
+    "name":"SMITH EL",
+    "latitude":32.74506,
+    "longitude":-96.5693436,
+    "testedNum":75,
+    "gradeLevelNum":47,
+    "literacyRate":0.626666667
+  },
+  {
+    "id":57914130,
+    "name":"GENTRY EL",
+    "latitude":32.7384404,
+    "longitude":-96.5730549,
+    "testedNum":114,
+    "gradeLevelNum":92,
+    "literacyRate":0.807017544
+  },
+  {
+    "id":57914131,
+    "name":"MACKEY EL",
+    "latitude":32.7116887,
+    "longitude":-96.5880485,
+    "testedNum":130,
+    "gradeLevelNum":99,
+    "literacyRate":0.761538462
+  },
+  {
+    "id":57914132,
+    "name":"ACHZIGER EL",
+    "latitude":32.7299004,
+    "longitude":-96.5652313,
+    "testedNum":121,
+    "gradeLevelNum":93,
+    "literacyRate":0.768595041
+  },
+  {
+    "id":57916101,
+    "name":"ARAPAHO CLASSICAL MAGNET",
+    "latitude":32.9615173,
+    "longitude":-96.7637253,
+    "testedNum":69,
+    "gradeLevelNum":62,
+    "literacyRate":0.898550725
+  },
+  {
+    "id":57916102,
+    "name":"CANYON CREEK EL",
+    "latitude":32.9688301,
+    "longitude":-96.7967834,
+    "testedNum":43,
+    "gradeLevelNum":43,
+    "literacyRate":1
+  },
+  {
+    "id":57916103,
+    "name":"DOVER EL",
+    "latitude":32.9443779,
+    "longitude":-96.7600632,
+    "testedNum":71,
+    "gradeLevelNum":43,
+    "literacyRate":0.605633803
+  },
+  {
+    "id":57916104,
+    "name":"GREENWOOD HILLS EL",
+    "latitude":32.9681892,
+    "longitude":-96.75103,
+    "testedNum":53,
+    "gradeLevelNum":43,
+    "literacyRate":0.811320755
+  },
+  {
+    "id":57916105,
+    "name":"HAMILTON PARK PACESETTER MAGNET",
+    "latitude":32.917351,
+    "longitude":-96.7593,
+    "testedNum":97,
+    "gradeLevelNum":65,
+    "literacyRate":0.670103093
+  },
+  {
+    "id":57916106,
+    "name":"O HENRY EL",
+    "latitude":32.9263802,
+    "longitude":-96.6938171,
+    "testedNum":66,
+    "gradeLevelNum":38,
+    "literacyRate":0.575757576
+  },
+  {
+    "id":57916107,
+    "name":"LAKE HIGHLANDS EL",
+    "latitude":32.876297,
+    "longitude":-96.709503,
+    "testedNum":81,
+    "gradeLevelNum":67,
+    "literacyRate":0.827160494
+  },
+  {
+    "id":57916108,
+    "name":"MOHAWK EL",
+    "latitude":32.971489,
+    "longitude":-96.762001,
+    "testedNum":53,
+    "gradeLevelNum":50,
+    "literacyRate":0.943396226
+  },
+  {
+    "id":57916109,
+    "name":"NORTHRICH EL",
+    "latitude":32.9678688,
+    "longitude":-96.7360382,
+    "testedNum":56,
+    "gradeLevelNum":39,
+    "literacyRate":0.696428571
+  },
+  {
+    "id":57916110,
+    "name":"NORTHWOOD HILLS EL",
+    "latitude":32.947308,
+    "longitude":-96.777573,
+    "testedNum":37,
+    "gradeLevelNum":36,
+    "literacyRate":0.972972973
+  },
+  {
+    "id":57916111,
+    "name":"RICHARDSON HEIGHTS EL",
+    "latitude":32.951946,
+    "longitude":-96.745414,
+    "testedNum":60,
+    "gradeLevelNum":40,
+    "literacyRate":0.666666667
+  },
+  {
+    "id":57916112,
+    "name":"RICHARDSON TERRACE EL",
+    "latitude":32.952036,
+    "longitude":-96.722272,
+    "testedNum":54,
+    "gradeLevelNum":41,
+    "literacyRate":0.759259259
+  },
+  {
+    "id":57916113,
+    "name":"SPRING VALLEY EL",
+    "latitude":32.933525,
+    "longitude":-96.775742,
+    "testedNum":37,
+    "gradeLevelNum":27,
+    "literacyRate":0.72972973
+  },
+  {
+    "id":57916114,
+    "name":"STULTS ROAD EL",
+    "latitude":32.904783,
+    "longitude":-96.7541476,
+    "testedNum":83,
+    "gradeLevelNum":49,
+    "literacyRate":0.590361446
+  },
+  {
+    "id":57916115,
+    "name":"MARK TWAIN EL",
+    "latitude":32.948651,
+    "longitude":-96.704355,
+    "testedNum":55,
+    "gradeLevelNum":35,
+    "literacyRate":0.636363636
+  },
+  {
+    "id":57916116,
+    "name":"WALLACE EL",
+    "latitude":32.8834601,
+    "longitude":-96.7071795,
+    "testedNum":99,
+    "gradeLevelNum":76,
+    "literacyRate":0.767676768
+  },
+  {
+    "id":57916117,
+    "name":"WHITE ROCK EL",
+    "latitude":32.8740845,
+    "longitude":-96.7241592,
+    "testedNum":78,
+    "gradeLevelNum":73,
+    "literacyRate":0.935897436
+  },
+  {
+    "id":57916118,
+    "name":"SPRING CREEK EL",
+    "latitude":32.956608,
+    "longitude":-96.776817,
+    "testedNum":43,
+    "gradeLevelNum":42,
+    "literacyRate":0.976744186
+  },
+  {
+    "id":57916120,
+    "name":"FORESTRIDGE EL",
+    "latitude":32.9217513,
+    "longitude":-96.7072935,
+    "testedNum":85,
+    "gradeLevelNum":55,
+    "literacyRate":0.647058824
+  },
+  {
+    "id":57916121,
+    "name":"NORTHLAKE EL",
+    "latitude":32.8852882,
+    "longitude":-96.7204666,
+    "testedNum":80,
+    "gradeLevelNum":43,
+    "literacyRate":0.5375
+  },
+  {
+    "id":57916122,
+    "name":"BOWIE EL",
+    "latitude":32.9704247,
+    "longitude":-96.7759567,
+    "testedNum":72,
+    "gradeLevelNum":66,
+    "literacyRate":0.916666667
+  },
+  {
+    "id":57916123,
+    "name":"PRAIRIE CREEK EL",
+    "latitude":32.9782219,
+    "longitude":-96.7211685,
+    "testedNum":42,
+    "gradeLevelNum":42,
+    "literacyRate":1
+  },
+  {
+    "id":57916124,
+    "name":"SPRINGRIDGE EL",
+    "latitude":32.9394073,
+    "longitude":-96.6901627,
+    "testedNum":62,
+    "gradeLevelNum":48,
+    "literacyRate":0.774193548
+  },
+  {
+    "id":57916125,
+    "name":"PRESTONWOOD EL",
+    "latitude":32.9604759,
+    "longitude":-96.7952499,
+    "testedNum":64,
+    "gradeLevelNum":51,
+    "literacyRate":0.796875
+  },
+  {
+    "id":57916126,
+    "name":"SKYVIEW EL",
+    "latitude":32.9026947,
+    "longitude":-96.7339096,
+    "testedNum":79,
+    "gradeLevelNum":49,
+    "literacyRate":0.620253165
+  },
+  {
+    "id":57916127,
+    "name":"DARTMOUTH EL",
+    "latitude":32.9539871,
+    "longitude":-96.6897812,
+    "testedNum":41,
+    "gradeLevelNum":34,
+    "literacyRate":0.829268293
+  },
+  {
+    "id":57916128,
+    "name":"BRENTFIELD EL",
+    "latitude":32.9755402,
+    "longitude":-96.7904053,
+    "testedNum":87,
+    "gradeLevelNum":84,
+    "literacyRate":0.965517241
+  },
+  {
+    "id":57916129,
+    "name":"JESS HARBEN EL",
+    "latitude":32.9396133,
+    "longitude":-96.705719,
+    "testedNum":25,
+    "gradeLevelNum":23,
+    "literacyRate":0.92
+  },
+  {
+    "id":57916130,
+    "name":"RICHLAND EL",
+    "latitude":32.9323845,
+    "longitude":-96.7268906,
+    "testedNum":85,
+    "gradeLevelNum":63,
+    "literacyRate":0.741176471
+  },
+  {
+    "id":57916131,
+    "name":"YALE EL",
+    "latitude":32.9669266,
+    "longitude":-96.6898804,
+    "testedNum":63,
+    "gradeLevelNum":53,
+    "literacyRate":0.841269841
+  },
+  {
+    "id":57916132,
+    "name":"MOSS HAVEN EL",
+    "latitude":32.8954391,
+    "longitude":-96.7431412,
+    "testedNum":63,
+    "gradeLevelNum":57,
+    "literacyRate":0.904761905
+  },
+  {
+    "id":57916133,
+    "name":"BIG SPRINGS EL",
+    "latitude":32.9737434,
+    "longitude":-96.6768341,
+    "testedNum":52,
+    "gradeLevelNum":39,
+    "literacyRate":0.75
+  },
+  {
+    "id":57916134,
+    "name":"MERRIMAN PARK EL",
+    "latitude":32.8792992,
+    "longitude":-96.7404022,
+    "testedNum":60,
+    "gradeLevelNum":51,
+    "literacyRate":0.85
+  },
+  {
+    "id":57916135,
+    "name":"AIKIN EL",
+    "latitude":32.915169,
+    "longitude":-96.722435,
+    "testedNum":95,
+    "gradeLevelNum":65,
+    "literacyRate":0.684210526
+  },
+  {
+    "id":57916137,
+    "name":"RISD ACAD",
+    "latitude":32.9348221,
+    "longitude":-96.7670135,
+    "testedNum":147,
+    "gradeLevelNum":96,
+    "literacyRate":0.653061224
+  },
+  {
+    "id":57916142,
+    "name":"MATH/SCIENCE/TECH MAGNET",
+    "latitude":32.9443016,
+    "longitude":-96.7267609,
+    "testedNum":78,
+    "gradeLevelNum":68,
+    "literacyRate":0.871794872
+  },
+  {
+    "id":57916143,
+    "name":"FOREST LANE ACADEMY",
+    "latitude":32.911442,
+    "longitude":-96.723484,
+    "testedNum":92,
+    "gradeLevelNum":55,
+    "literacyRate":0.597826087
+  },
+  {
+    "id":57916144,
+    "name":"AUDELIA CREEK EL",
+    "latitude":32.9185595,
+    "longitude":-96.717573,
+    "testedNum":72,
+    "gradeLevelNum":43,
+    "literacyRate":0.597222222
+  },
+  {
+    "id":57916145,
+    "name":"CAROLYN G BUKHAIR EL",
+    "latitude":32.9375534,
+    "longitude":-96.7595673,
+    "testedNum":125,
+    "gradeLevelNum":64,
+    "literacyRate":0.512
+  },
+  {
+    "id":57916146,
+    "name":"THURGOOD MARSHALL EL",
+    "latitude":32.902023,
+    "longitude":-96.7261568,
+    "testedNum":89,
+    "gradeLevelNum":47,
+    "literacyRate":0.528089888
+  },
+  {
+    "id":57919101,
+    "name":"SUNNYVALE EL",
+    "latitude":32.7944832,
+    "longitude":-96.5567551,
+    "testedNum":89,
+    "gradeLevelNum":79,
+    "literacyRate":0.887640449
+  },
+  {
+    "id":57922101,
+    "name":"PINKERTON EL",
+    "latitude":32.9492226,
+    "longitude":-96.9975739,
+    "testedNum":73,
+    "gradeLevelNum":70,
+    "literacyRate":0.95890411
+  },
+  {
+    "id":57922103,
+    "name":"AUSTIN EL",
+    "latitude":32.9660416,
+    "longitude":-96.9784317,
+    "testedNum":96,
+    "gradeLevelNum":91,
+    "literacyRate":0.947916667
+  },
+  {
+    "id":57922105,
+    "name":"MOCKINGBIRD EL",
+    "latitude":32.9635515,
+    "longitude":-96.9701781,
+    "testedNum":106,
+    "gradeLevelNum":100,
+    "literacyRate":0.943396226
+  },
+  {
+    "id":57922106,
+    "name":"WILSON EL",
+    "latitude":32.9660426,
+    "longitude":-97.0065475,
+    "testedNum":96,
+    "gradeLevelNum":77,
+    "literacyRate":0.802083333
+  },
+  {
+    "id":57922107,
+    "name":"LAKESIDE EL",
+    "latitude":32.9721794,
+    "longitude":-96.9584961,
+    "testedNum":91,
+    "gradeLevelNum":87,
+    "literacyRate":0.956043956
+  },
+  {
+    "id":57922108,
+    "name":"TOWN CENTER EL",
+    "latitude":32.9746323,
+    "longitude":-96.9901428,
+    "testedNum":85,
+    "gradeLevelNum":79,
+    "literacyRate":0.929411765
+  },
+  {
+    "id":57922109,
+    "name":"COTTONWOOD CREEK EL",
+    "latitude":32.9773193,
+    "longitude":-97.0070001,
+    "testedNum":97,
+    "gradeLevelNum":87,
+    "literacyRate":0.896907216
+  },
+  {
+    "id":57922110,
+    "name":"VALLEY RANCH EL",
+    "latitude":32.9375458,
+    "longitude":-96.9561768,
+    "testedNum":112,
+    "gradeLevelNum":108,
+    "literacyRate":0.964285714
+  },
+  {
+    "id":57922111,
+    "name":"DENTON CREEK EL",
+    "latitude":32.9829982,
+    "longitude":-96.9881161,
+    "testedNum":92,
+    "gradeLevelNum":84,
+    "literacyRate":0.913043478
+  }
+]
