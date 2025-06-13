@@ -1,5 +1,5 @@
 # Ana Marinovic - Work Samples
-[LinkedIn Profile](https://www.linkedin.com/in/anapaulamarinovic/) | [anapmarinovic@gmail.com](anapmarinovic@gmail.com)
+[LinkedIn Profile](https://www.linkedin.com/in/anapaulamarinovic/) | anapmarinovic@gmail.com
 
 ## Contents
 1. [dbt SQL models for BigQuery](#sql)
