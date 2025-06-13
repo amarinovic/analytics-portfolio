@@ -37,7 +37,7 @@ Purpose:
 <br><br>
 
 ## d3.js <a name='d3'></a>
-These samples are less recent, but I'm including them because d3.js was my portal to the world of analytics engineering. I fell in love with d3.js because it allowed me to be artsy and mathy and so very detailed all at once. I've come to terms with the impractical limits of building d3.js tools for the Data & Analytics teams that I've been a part of to date, but I will always hold a special place in my heart for the infinite customizability of d3.js. These visualizations may suffer from brower compatibility issues because of the time that has passed; please view these in Google Chrome.  
+These samples are less recent, but I'm including them because d3.js was my portal to the world of analytics engineering. I fell in love with d3.js because it allowed me to be artsy and mathy and so very detailed all at once. I've come to terms with the impractical limits of building d3.js tools for the Data & Analytics teams that I've been a part of to date, but I will always hold a special place in my heart for the infinite customizability of d3.js. These visualizations may suffer from browser compatibility issues because of the time that has passed since I built them; please view these in Google Chrome.  
 <br>
 #### Literacy in Dallas County
 [Visualization](https://amarinovic.github.io/analytics-portfolio/projects/earlyliteracy/index.html)
