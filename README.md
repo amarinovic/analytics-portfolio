@@ -21,9 +21,9 @@ In my current role as the Associate Director of Analytics Engineering at KIPP Pu
 <br>
 | Title | Link | Description |
 | ----------- | ----------- |  ----------- |
-| **Instructional Talent Dashboard** | [Link]| Text Text Text |
-| **Alumni Success Metrics** | [Link] | Text Text Text |
-| **High School Postseconday Match Progress Monitoring Dashboard** | [Link]| Text Text Text |
+| **Instructional Talent Dashboard** | [PDF](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/Instructional%20Talent%20Dashboard.pdf)| Text Text Text |
+| **Alumni Success Metrics** | [PDF](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/Alumni%20Success%20Metrics.pdf) | Text Text Text |
+| **High School Postseconday Match Progress Monitoring Dashboard** | [PDF](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/High%20School%20PS%20Match%20Progress%20Monitoring%20Dashboard.pdf)| Text Text Text |
 
 ## d3.js <a name='d3'></a>
 These samples are less recent, but I'm including them because d3.js was my portal to the world of analytics engineering. I fell in love with d3.js because it allowed me to be artsy and mathy and so very detailed all at once. I've come to terms with the impractical limits of building d3.js tools for the Data & Analytics teams that I've been a part of to date, but I will always hold a special place in my heart for the infinite customizability of d3.js. These visualizations may suffer from browser compatibility issues because of the time that has passed since I built them; please view these in Google Chrome.  
