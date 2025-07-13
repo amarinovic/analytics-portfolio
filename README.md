@@ -7,13 +7,13 @@
 3. [d3.js](#d3)
 
 ## dbt SQL models for BigQuery <a name='sql'></a>
-In my current role as the Associate Director of Analytics Engineering at KIPP Public Schools NorCal, one of my primary responsibilities is to build Tableau dashboards to support progress monitoring to goals for partner team initiatives. KIPP NorCal relies heavily on data to inform regional priorities and strategies, and there are strong goal-setting practices throughout the organization. As I partner with teams, I engage in thorough discovery work to understand their data-tracking needs, and then I design and build Tableau dashboards, as well as the underlying SQL data models, that allow the teams to easily track progress to all of their goals. I am not able to share the Tableau workbooks directly because of data privacy concerns, but the PDF screenshots I included below can give a rough idea of some of the data tools I build in my current role.
+TBD
 <br>
 | Project | Link | Description |
 | ----------- | ----------- |  ----------- |
+| **High School GPA** | [Link](https://github.com/amarinovic/analytics-portfolio/tree/main/projects/gpas) | Text Text Text |
 | **National Student Clearinghouse** | [Link]| Text Text Text |
-| **High School GPA** | [Link] | Text Text Text |
-| **High Health** | [Link]| Text Text Text |
+
 
 
 ## Tableau <a name='tableau'></a>
