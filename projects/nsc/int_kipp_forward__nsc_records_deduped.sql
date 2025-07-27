@@ -3,8 +3,6 @@
 
     2025-02-13      Ana M       Created.
     2025-07-28      Ana M       Adding exclude_nightly tag.
-
-    -- ERROR - what if multiple enrollments started at same college so multiple sequences exist
 ***/
 {{ 
     config(
