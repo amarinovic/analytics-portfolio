@@ -14,7 +14,7 @@ The result of my dbt SQL transformations is two models that are ready for upload
 **(1) A term level model** that includes a record for every term and institution where a student was enrolled. For the example student, this model includes 13 distinct term records.<br><br>
 <img width="2314" height="529" alt="image" src="https://github.com/user-attachments/assets/9c481884-02b2-4f64-b8c8-30585fc9211a" />
 <br><br>
-**(2) An enrollment level model** that includes a record for every institution where a student was enrolled.. For the example student, this model includes 2 distinct institution enrollment records as well as the graduation details.<br><br>
+**(2) An institutional enrollment level model** that includes a record for every institution where a student was enrolled. For the example student, this model includes 2 distinct institution enrollment records as well as the graduation details.<br><br>
 <img width="2100" height="150" alt="image" src="https://github.com/user-attachments/assets/7c78c764-89ba-4b12-84cb-b60538ae17e8" />
 <br><br>
 
