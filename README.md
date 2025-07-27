@@ -7,17 +7,17 @@
 3. [d3.js](#d3)
 
 ## dbt SQL models for BigQuery <a name='sql'></a>
-TBD
+In my current role as the Associate Director of Analytics Engineering at KIPP Public Schools NorCal, I spend a majority of my time using dbt and SQL to transform raw data into clean and well-structured data models in our team's Google BigQuery data warehouse. I am the top contributor to our team's SQL code base, which incldues having built a number of core models that others use in their work, and I review and approve nearly all of the SQL code that the rest of the team contributes as well. I'm sharing two example projects where I transformed raw data to more useable data shapes.
 <br>
 | Project | Link | Description |
 | ----------- | ----------- |  ----------- |
 | **High School GPA Core Model** | [Link](https://github.com/amarinovic/analytics-portfolio/tree/main/projects/gpas) | For this project, I used dbt to transform semester GPA data for our high school students to a core data model that shows all variations (unweighted/weighted, cumulative/non-cumulative) of GPAs for all students for each semester that they attended our high schools. KIPP NorCal frequently layers GPA data on top of other data such as assessment results or postsecondary enrollment outcomes, so it is really powerful for my data team to have these GPAs readily available in this core model in our data warehouse. Please note that I'm sharing a slightly simplified explanation of the model infrastructure. |
-| **National Student Clearinghouse** | [Link]| Text Text Text |
+| **National Student Clearinghouse** | [Link](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/nsc)| For this project, I used dbt to clean and transform post-secondary institution enrollment records received from the National Student Clearinghouse (NSC) to the appropriate level of detail for upload to our internal Salesforce Alumni Database. The enrollment records from NSC can include one or more records for each semester that a student is enrolled at a post-secondary institution, and the result of my dbt SQL transformations is both a model that includes distinct term enrollments and a model that includes distinct overall institution enrollments. |
 
 
 
 ## Tableau <a name='tableau'></a>
-In my current role as the Associate Director of Analytics Engineering at KIPP Public Schools NorCal, one of my primary responsibilities is to build Tableau dashboards to support progress monitoring to goals for partner team initiatives. KIPP NorCal relies heavily on data to inform regional priorities and strategies, and there are strong goal-setting practices throughout the organization. As I partner with teams, I engage in thorough discovery work to understand their data-tracking needs, and then I design and build Tableau dashboards, as well as the underlying SQL data models, that allow the teams to easily track progress to all of their goals.
+In my current role, another one of my primary responsibilities is to build Tableau dashboards to support progress monitoring to goals for partner team initiatives. KIPP NorCal relies heavily on data to inform regional priorities and strategies, and there are strong goal-setting practices throughout the organization. As I partner with teams, I engage in thorough discovery work to understand their data-tracking needs, and then I design and build Tableau dashboards, as well as the underlying SQL data models, that allow the teams to easily track progress to all of their goals.
 <br><br>
 I am not able to share the Tableau workbooks directly because of data privacy concerns, but the PDF screenshots I included below can give a rough idea of some of the data tools I build in my current role. I redacted some identifying information. Each of the reports has filter and parameter options as well as tooltips that of course don't come through in the PDF format. 
 <br>
