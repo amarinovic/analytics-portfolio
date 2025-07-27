@@ -11,7 +11,7 @@ TBD
 <br>
 | Project | Link | Description |
 | ----------- | ----------- |  ----------- |
-| **High School GPA** | [Link](https://github.com/amarinovic/analytics-portfolio/tree/main/projects/gpas) | Text Text Text |
+| **High School GPA Core Model** | [Link](https://github.com/amarinovic/analytics-portfolio/tree/main/projects/gpas) | For this project, I used dbt to transform semester GPA data for our high school students to a core data model that shows all variations (unweighted/weighted, cumulative/non-cumulative) of GPAs for all students for each semester that they attended our high schools. KIPP NorCal frequently layers GPA data on top of other data such as assessment results or postsecondary enrollment outcomes, so it is really powerful for my data team to have these GPAs readily available in this core model in our data warehouse. Please note that I'm sharing a slightly simplified explanation of the model infrastructure. |
 | **National Student Clearinghouse** | [Link]| Text Text Text |
 
 

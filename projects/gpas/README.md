@@ -8,7 +8,8 @@ For this project, I used dbt to transform semester GPA data for our high school 
 <img width="2770" height="318" alt="image" src="https://github.com/user-attachments/assets/e264602f-801b-477e-8397-fb6d84e568a4" />
 <br><br>
 **Transformed Data:** The final model includes a record for every student, for every school year, and for every gpa variation. Below are all of the records available for this same student in the core model that I created.<br><br>
-<img width="2782" height="1256" alt="image" src="https://github.com/user-attachments/assets/ec412365-0e4f-4588-95b3-0f076f16b8c5" />
+<img width="2318" height="1120" alt="image" src="https://github.com/user-attachments/assets/59000e0b-3e32-4ab5-9df5-045cf6124ff3" />
+
 
 ## Data Models
 
