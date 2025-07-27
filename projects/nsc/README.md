@@ -1,4 +1,4 @@
-# National Student Clearinghosuse Data Transformation
+# National Student Clearinghouse Data Transformation
 ### Summary
 For this project, I used dbt to clean and transform post-secondary institution enrollment records received from the National Student Clearinghouse (NSC) to the appropriate level of detail for upload to our internal Salesforce Alumni Database. 
 
@@ -23,11 +23,13 @@ The result of my dbt SQL transformations is two models that are ready for upload
 
 | Model | Purpose |
 | ----------- | ----------- |
-| **[int_grades__potential_credits_by_term_pivoted](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/gpas/int_grades__potential_credits_by_term_pivoted.sql)** | This model pivots high school course credit values to use downstream when weighting semester GPAs. |
-| **[int_grades__current_semester_gpas_unpivoted](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/gpas/int_grades__current_semester_gpas_unpivoted.sql)** | This model unpivots current school year GPAs so that there are separate records for weighted and unweighted GPAs. |
-| **[int_grades__historical_semester_gpas_unpivoted](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/gpas/int_grades__historical_semester_gpas_unpivoted.sql)** | This model unpivots previous school year GPAs so that there are separate records for weighted and unweighted GPAs.  |
-| **[int_grades__semester_gpas_merged](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/gpas/int_grades__semester_gpas_merged.sql)** | Because the current school year GPAs are sourced differently than past school year GPAs, this model unions the two GPA sources. |
-| **[fct_grades__historical_semester_gpas.sql](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/gpas/fct_grades__historical_semester_gpas.sql)** | This is the final core model that includes a record for every student for every semester for every GPA variation. This model uses the term course credit values to calculate cumulative GPAs for each semester that a student is enrolled. |
-
+| **[stg_kf__nsc_returned_records](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/nsc/stg_kf__nsc_returned_records.sql)** | This is the staging model where I apply some base transformations to the raw data. |
+| **[int_kipp_forward__nsc_records_deduped](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/nsc/int_kipp_forward__nsc_records_deduped.sql)** | This model... |
+| **[int_kipp_forward__nsc_records_coded](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/nsc/int_kipp_forward__nsc_records_coded.sql)** | This model... |
+| **[int_kipp_forward__nsc_records_ranked](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/nsc/int_kipp_forward__nsc_records_ranked.sql)** | This model... |
+| **[int_kipp_forward__nsc_graduations_filtered_and_flattened](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/nsc/int_kipp_forward__nsc_graduations_filtered_and_flattened.sql)** | This model... |
+| **[fct_kipp_forward__nsc_terms](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/nsc/fct_kipp_forward__nsc_terms.sql)**| This model... |
+| **[fct_kipp_forward__nsc_enrollments](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/nsc/fct_kipp_forward__nsc_enrollments.sql)**| This model... |
 **Lineage:**
-<img width="3456" height="848" alt="image" src="https://github.com/user-attachments/assets/85af40b4-8764-4045-ad3e-07cfeccfc76d" />
+<img width="3516" height="372" alt="image" src="https://github.com/user-attachments/assets/02cd9f2f-dc41-4147-bff7-251344e4b4f0" />
+
