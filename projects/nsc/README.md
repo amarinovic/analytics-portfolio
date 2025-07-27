@@ -29,7 +29,8 @@ The result of my dbt SQL transformations is two models that are ready for upload
 | **[int_kipp_forward__nsc_records_ranked](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/nsc/int_kipp_forward__nsc_records_ranked.sql)** | This model isolates enrollment records and applies an intra-term ranking as well as an intra-institutional-enrollment ranking to each record. |
 | **[int_kipp_forward__nsc_graduations_filtered_and_flattened](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/nsc/int_kipp_forward__nsc_graduations_filtered_and_flattened.sql)** | This model isolates records with graduation details and flattens the records to one record per student institutional enrollment. |
 | **[fct_kipp_forward__nsc_terms](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/nsc/fct_kipp_forward__nsc_terms.sql)**| This model combines the previous two models to output a distinct record for each term that a student attends at each institution, including graduation details on the final term. |
-| **[fct_kipp_forward__nsc_enrollments](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/nsc/fct_kipp_forward__nsc_enrollments.sql)**| This model combines the same two models to output a distinct record for each institution that a student attends, including graduation details. |
+| **[fct_kipp_forward__nsc_enrollments](https://github.com/amarinovic/analytics-portfolio/blob/main/projects/nsc/fct_kipp_forward__nsc_enrollments.sql)**| This model takes the term fact model and flattens it to output a distinct record for each institution that a student attends, including graduation details. |
+
 **Lineage:**
 <img width="3516" height="372" alt="image" src="https://github.com/user-attachments/assets/02cd9f2f-dc41-4147-bff7-251344e4b4f0" />
 
