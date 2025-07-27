@@ -7,7 +7,7 @@
 3. [d3.js](#d3)
 
 ## dbt SQL models for BigQuery <a name='sql'></a>
-In my current role as the Associate Director of Analytics Engineering at KIPP Public Schools NorCal, I spend a majority of my time using dbt and SQL to transform raw data into clean and well-structured data models in our team's Google BigQuery data warehouse. I am the top contributor to our team's SQL code base, which incldues having built a number of core models that others use in their work, and I review and approve nearly all of the SQL code that the rest of the team contributes as well. I'm sharing two example projects where I transformed raw data to more useable data shapes.
+In my current role as the Associate Director of Analytics Engineering at KIPP Public Schools NorCal, I spend a majority of my time using dbt and SQL to transform raw data into clean and well-structured data models in our team's Google BigQuery data warehouse. I am the top contributor to our team's SQL code base, which includes having built a number of core models that others use in their work, and I review and approve nearly all of the SQL code that the rest of the team contributes as well. I'm sharing two example projects where I transformed raw data to more useable data shapes.
 <br>
 | Project | Link | Description |
 | ----------- | ----------- |  ----------- |
